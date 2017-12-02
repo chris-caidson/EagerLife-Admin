@@ -22,4 +22,64 @@ eagerlife-admin-app {
 		background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(222,222,222,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#bfdedede',GradientType=0 ); /* IE6-9 */
 		}
+
+		.card-header {
+			font-size: large;
+			background: #42a1d7; /* Old browsers */
+			background: -moz-linear-gradient(top, #42a1d7 0%, #016fba 100%); /* FF3.6-15 */
+			background: -webkit-linear-gradient(top, #42a1d7 0%,#016fba 100%); /* Chrome10-25,Safari5.1-6 */
+			background: linear-gradient(to bottom, #42a1d7 0%,#016fba 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#42a1d7', endColorstr='#016fba',GradientType=0 ); /* IE6-9 */
+			border-bottom: 1px solid #034C7F;
+			box-shadow: 1px 1px 15px #222;
+		}
+	
+		.ion-content {
+			background-color: #EFEFEF;
+		}
+	
+		ion-card-content {
+			margin-top: 12px;
+		}
+	
+		.bottom-spacer {
+			margin-bottom: 24px;
+		}
+	
+		a, .secondary {
+			color: #ec4e1f;
+		}
+	
+		table {
+			table-layout: fixed;
+			width: 100%;
+		}
+	
+		th {
+			background-color: #EEE;
+		}
+	
+		td, th {
+			border: 1px solid #999;
+			padding: 4px;
+			vertical-align: top;
+		}
+	
+		ion-icon {
+			padding-right: 10px;
+		}
+
+		footer {
+			color: #777;
+			margin-left: 10px;
+			margin-bottom: 10px;
+		}
+
+		.primary {
+			color: #016fba;
+		}
+	
+		.right-spacer {
+			margin-right: 10px;
+		}
 	}

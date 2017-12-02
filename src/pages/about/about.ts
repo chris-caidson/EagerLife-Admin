@@ -1,12 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
 
-/**
- * Generated class for the AboutPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
+import { Utility } from '../../shared/utility.service';
 
 @Component({
 	selector: 'page-about',
@@ -14,11 +9,12 @@ import { NavController, NavParams } from 'ionic-angular';
 })
 export class AboutPage {
 
-	constructor(public navCtrl: NavController, public navParams: NavParams) {
+	currentYear: number;
+
+	constructor(public navCtrl: NavController, public navParams: NavParams, private utility: Utility) {
 	}
 
 	ionViewDidLoad() {
-		console.log('ionViewDidLoad AboutPage');
+		this.currentYear = this.utility.getCurrentYear();
 	}
-
 }

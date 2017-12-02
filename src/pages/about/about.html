@@ -3,10 +3,27 @@
 		<button ion-button menuToggle>
 			<ion-icon name="menu"></ion-icon>
 		</button>
-		<ion-title><ion-icon name="information-circle" color="primary"></ion-icon>&nbsp;About EagerLife Admin</ion-title>
+		<ion-title>
+				<i class="fa fa-info-circle primary right-spacer" item-start></i>About EagerLife Admin</ion-title>
 	</ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content class="ion-content">
+	<ion-card>
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-info right-spacer"></i>About EagerLife Admin</ion-card-header>
+		<ion-card-content>
+			<p>EagerLife Admin is a utility application meant for maintaining the EagerLife Progressive Web Application (PWA).
+			</p>
+			<br />
+			<p>
+				EagerLife Admin Version #:
+				<span class="secondary">1.0.0</span>
+			</p>
+		</ion-card-content>
+	</ion-card>
 
+	<footer>
+		<small>&copy; Copyright {{currentYear}} Caidson Software, Inc.</small>
+	</footer>
 </ion-content>

@@ -9,7 +9,7 @@
 		<ion-list>
 			<ion-item-group>
 				<button menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)" no-lines class="nav-button">
-					<ion-icon [name]="p.icon" item-start color="primary"></ion-icon>
+					<i class="fa fa-lg fa-{{p.icon}} primary" item-start></i>
 					{{p.title}}
 				</button>
 			</ion-item-group>
