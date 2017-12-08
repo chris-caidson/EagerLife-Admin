@@ -7,14 +7,14 @@ import { HttpModule } from '@angular/http';
 import { environment } from '../shared/environment';
 
 import { MyApp } from './app.component';
-import { HomePage } from '../pages/home/home';
-import { DatabasePage } from '../pages/database/database';
-import { AboutPage } from '../pages/about/about';
+import { HomePage } from '../pages/home/home.page';
+import { DatabasePage } from '../pages/database/database.page';
+import { AboutPage } from '../pages/about/about.page';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { Utility } from '../shared/utility.service';
-import { Firestore } from '../shared/firestore.service';
+import { DataService } from '../shared/data.service';
 
 @NgModule({
 	declarations: [
@@ -41,7 +41,7 @@ import { Firestore } from '../shared/firestore.service';
 		StatusBar,
 		SplashScreen,
 		Utility,
-		Firestore,
+		DataService,
 		{ provide: ErrorHandler, useClass: IonicErrorHandler }
 	]
 })

@@ -1,9 +1,8 @@
 export interface DailyItem {	
-	SortOrder: number,
+	Id: string,
 	Month: number,
 	Day: number,
 	Hour: number,
 	Minute: number,
-	Text: string,
-	ImageId: string
+	Text: string
 }

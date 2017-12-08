@@ -1,0 +1,52 @@
+<ion-header>
+	<ion-navbar>
+		<button ion-button menuToggle>
+			<ion-icon name="menu"></ion-icon>
+		</button>
+		<ion-title>
+			<i class="fa fa-database primary right-spacer" item-start></i>Database
+		</ion-title>
+	</ion-navbar>
+</ion-header>
+
+<ion-content class="ion-content">
+	<ion-card class="bottom-spacer">
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-calendar right-spacer"></i>Daily Data</ion-card-header>
+		<ion-card-content>
+			<div class="bottom-spacer">
+				<span class="danger">
+					<i class="fa fa-exclamation-triangle right-spacer"></i>WARNING!!!</span>
+				<p>Clicking any of these buttons will clear ALL daily data of that type and then repopulate the database. Only do this if absolutely
+				necessary!</p>
+			</div>
+			<div>
+				<button full ion-button color="secondary" (click)="seedAllDailyCalmData()" [disabled]=isSeedingDailyCalm>
+					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingDailyCalm></i>
+					{{isSeedingDailyCalm ? "Seeding Daily Calm Data..." : "Seed ALL Daily Calm Data"}}
+				</button>
+			</div>
+			<div>
+				<button full ion-button color="secondary" (click)="seedAllDailyMotivationData()" [disabled]=isSeedingDailyMotivation>
+					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingDailyMotivation></i>
+					{{isSeedingDailyMotivation ? "Seeding Daily Motivation Data..." : "Seed ALL Daily Motivation Data"}}
+				</button>
+			</div>
+			<div>
+				<button full ion-button color="secondary" (click)="seedAllQuoteOfTheDayData()" [disabled]=isSeedingQuoteOfTheDay>
+					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingQuoteOfTheDay></i>
+					{{isSeedingQuoteOfTheDay ? "Seeding Quotes..." : "Seed ALL Quote of the Day Data"}}
+				</button>
+			</div>
+			<div>
+				<button full ion-button color="secondary" (click)="seedAllVisionBoardData()" [disabled]=isSeedingVisionBoard>
+					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingVisionBoard></i>
+					{{isSeedingVisionBoard ? "Seeding Vision Board Data..." : "Seed ALL Vision Board Data"}}
+				</button>
+			</div>
+		</ion-card-content>
+	</ion-card>
+	<footer>
+		<small>&copy; Copyright {{currentYear}} Caidson Software, Inc.</small>
+	</footer>
+</ion-content>

@@ -5,7 +5,7 @@ import { Utility } from '../../shared/utility.service';
 
 @Component({
 	selector: 'page-home',
-	templateUrl: 'home.html'
+	templateUrl: 'home.page.html'
 })
 export class HomePage {
 

@@ -1,3296 +1,2930 @@
 [
 	{
-		"SortOrder": 1,
+		"Id": "001",
 		"Month": 1,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "001"
+		"Text": "#QuoteOfTheDay for January 1, {year}"
 	},
 	{
-		"SortOrder": 2,
+		"Id": "002",
 		"Month": 1,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "002"
+		"Text": "#QuoteOfTheDay for January 2, {year}"
 	},
 	{
-		"SortOrder": 3,
+		"Id": "003",
 		"Month": 1,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "003"
+		"Text": "#QuoteOfTheDay for January 3, {year}"
 	},
 	{
-		"SortOrder": 4,
+		"Id": "004",
 		"Month": 1,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "004"
+		"Text": "#QuoteOfTheDay for January 4, {year}"
 	},
 	{
-		"SortOrder": 5,
+		"Id": "005",
 		"Month": 1,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "005"
+		"Text": "#QuoteOfTheDay for January 5, {year}"
 	},
 	{
-		"SortOrder": 6,
+		"Id": "006",
 		"Month": 1,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "006"
+		"Text": "#QuoteOfTheDay for January 6, {year}"
 	},
 	{
-		"SortOrder": 7,
+		"Id": "007",
 		"Month": 1,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "007"
+		"Text": "#QuoteOfTheDay for January 7, {year}"
 	},
 	{
-		"SortOrder": 8,
+		"Id": "008",
 		"Month": 1,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "008"
+		"Text": "#QuoteOfTheDay for January 8, {year}"
 	},
 	{
-		"SortOrder": 9,
+		"Id": "09",
 		"Month": 1,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "09"
+		"Text": "#QuoteOfTheDay for January 9, {year}"
 	},
 	{
-		"SortOrder": 10,
+		"Id": "010",
 		"Month": 1,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "010"
+		"Text": "#QuoteOfTheDay for January 10, {year}"
 	},
 	{
-		"SortOrder": 11,
+		"Id": "011",
 		"Month": 1,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "011"
+		"Text": "#QuoteOfTheDay for January 11, {year}"
 	},
 	{
-		"SortOrder": 12,
+		"Id": "012",
 		"Month": 1,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "012"
+		"Text": "#QuoteOfTheDay for January 12, {year}"
 	},
 	{
-		"SortOrder": 13,
+		"Id": "013",
 		"Month": 1,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "013"
+		"Text": "#QuoteOfTheDay for January 13, {year}"
 	},
 	{
-		"SortOrder": 14,
+		"Id": "014",
 		"Month": 1,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "014"
+		"Text": "#QuoteOfTheDay for January 14, {year}"
 	},
 	{
-		"SortOrder": 15,
+		"Id": "015",
 		"Month": 1,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "015"
+		"Text": "#QuoteOfTheDay for January 15, {year}"
 	},
 	{
-		"SortOrder": 16,
+		"Id": "016",
 		"Month": 1,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "016"
+		"Text": "#QuoteOfTheDay for January 16, {year}"
 	},
 	{
-		"SortOrder": 17,
+		"Id": "017",
 		"Month": 1,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "017"
+		"Text": "#QuoteOfTheDay for January 17, {year}"
 	},
 	{
-		"SortOrder": 18,
+		"Id": "018",
 		"Month": 1,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "018"
+		"Text": "#QuoteOfTheDay for January 18, {year}"
 	},
 	{
-		"SortOrder": 19,
+		"Id": "019",
 		"Month": 1,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "019"
+		"Text": "#QuoteOfTheDay for January 19, {year}"
 	},
 	{
-		"SortOrder": 20,
+		"Id": "020",
 		"Month": 1,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "020"
+		"Text": "#QuoteOfTheDay for January 20, {year}"
 	},
 	{
-		"SortOrder": 21,
+		"Id": "021",
 		"Month": 1,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "021"
+		"Text": "#QuoteOfTheDay for January 21, {year}"
 	},
 	{
-		"SortOrder": 22,
+		"Id": "022",
 		"Month": 1,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "022"
+		"Text": "#QuoteOfTheDay for January 22, {year}"
 	},
 	{
-		"SortOrder": 23,
+		"Id": "023",
 		"Month": 1,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "023"
+		"Text": "#QuoteOfTheDay for January 23, {year}"
 	},
 	{
-		"SortOrder": 24,
+		"Id": "024",
 		"Month": 1,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "024"
+		"Text": "#QuoteOfTheDay for January 24, {year}"
 	},
 	{
-		"SortOrder": 25,
+		"Id": "025",
 		"Month": 1,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "025"
+		"Text": "#QuoteOfTheDay for January 25, {year}"
 	},
 	{
-		"SortOrder": 26,
+		"Id": "026",
 		"Month": 1,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "026"
+		"Text": "#QuoteOfTheDay for January 26, {year}"
 	},
 	{
-		"SortOrder": 27,
+		"Id": "027",
 		"Month": 1,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "027"
+		"Text": "#QuoteOfTheDay for January 27, {year}"
 	},
 	{
-		"SortOrder": 28,
+		"Id": "028",
 		"Month": 1,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "028"
+		"Text": "#QuoteOfTheDay for January 28, {year}"
 	},
 	{
-		"SortOrder": 29,
+		"Id": "029",
 		"Month": 1,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "029"
+		"Text": "#QuoteOfTheDay for January 29, {year}"
 	},
 	{
-		"SortOrder": 30,
+		"Id": "030",
 		"Month": 1,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "030"
+		"Text": "#QuoteOfTheDay for January 30, {year}"
 	},
 	{
-		"SortOrder": 31,
+		"Id": "031",
 		"Month": 1,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "031"
+		"Text": "#QuoteOfTheDay for January 31, {year}"
 	},
 	{
-		"SortOrder": 32,
+		"Id": "032",
 		"Month": 2,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "032"
+		"Text": "#QuoteOfTheDay for February 1, {year}"
 	},
 	{
-		"SortOrder": 33,
+		"Id": "033",
 		"Month": 2,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "033"
+		"Text": "#QuoteOfTheDay for February 2, {year}"
 	},
 	{
-		"SortOrder": 34,
+		"Id": "034",
 		"Month": 2,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "034"
+		"Text": "#QuoteOfTheDay for February 3, {year}"
 	},
 	{
-		"SortOrder": 35,
+		"Id": "035",
 		"Month": 2,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "035"
+		"Text": "#QuoteOfTheDay for February 4, {year}"
 	},
 	{
-		"SortOrder": 36,
+		"Id": "036",
 		"Month": 2,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "036"
+		"Text": "#QuoteOfTheDay for February 5, {year}"
 	},
 	{
-		"SortOrder": 37,
+		"Id": "037",
 		"Month": 2,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "037"
+		"Text": "#QuoteOfTheDay for February 6, {year}"
 	},
 	{
-		"SortOrder": 38,
+		"Id": "038",
 		"Month": 2,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "038"
+		"Text": "#QuoteOfTheDay for February 7, {year}"
 	},
 	{
-		"SortOrder": 39,
+		"Id": "039",
 		"Month": 2,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "039"
+		"Text": "#QuoteOfTheDay for February 8, {year}"
 	},
 	{
-		"SortOrder": 40,
+		"Id": "040",
 		"Month": 2,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "040"
+		"Text": "#QuoteOfTheDay for February 9, {year}"
 	},
 	{
-		"SortOrder": 41,
+		"Id": "041",
 		"Month": 2,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "041"
+		"Text": "#QuoteOfTheDay for February 10, {year}"
 	},
 	{
-		"SortOrder": 42,
+		"Id": "042",
 		"Month": 2,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "042"
+		"Text": "#QuoteOfTheDay for February 11, {year}"
 	},
 	{
-		"SortOrder": 43,
+		"Id": "043",
 		"Month": 2,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "043"
+		"Text": "#QuoteOfTheDay for February 12, {year}"
 	},
 	{
-		"SortOrder": 44,
+		"Id": "044",
 		"Month": 2,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "044"
+		"Text": "#QuoteOfTheDay for February 13, {year}"
 	},
 	{
-		"SortOrder": 45,
+		"Id": "045",
 		"Month": 2,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "045"
+		"Text": "#QuoteOfTheDay for February 14, {year}"
 	},
 	{
-		"SortOrder": 46,
+		"Id": "046",
 		"Month": 2,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "046"
+		"Text": "#QuoteOfTheDay for February 15, {year}"
 	},
 	{
-		"SortOrder": 47,
+		"Id": "047",
 		"Month": 2,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "047"
+		"Text": "#QuoteOfTheDay for February 16, {year}"
 	},
 	{
-		"SortOrder": 48,
+		"Id": "048",
 		"Month": 2,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "048"
+		"Text": "#QuoteOfTheDay for February 17, {year}"
 	},
 	{
-		"SortOrder": 49,
+		"Id": "049",
 		"Month": 2,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "049"
+		"Text": "#QuoteOfTheDay for February 18, {year}"
 	},
 	{
-		"SortOrder": 50,
+		"Id": "050",
 		"Month": 2,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "050"
+		"Text": "#QuoteOfTheDay for February 19, {year}"
 	},
 	{
-		"SortOrder": 51,
+		"Id": "051",
 		"Month": 2,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "051"
+		"Text": "#QuoteOfTheDay for February 20, {year}"
 	},
 	{
-		"SortOrder": 52,
+		"Id": "052",
 		"Month": 2,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "052"
+		"Text": "#QuoteOfTheDay for February 21, {year}"
 	},
 	{
-		"SortOrder": 53,
+		"Id": "053",
 		"Month": 2,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "053"
+		"Text": "#QuoteOfTheDay for February 22, {year}"
 	},
 	{
-		"SortOrder": 54,
+		"Id": "054",
 		"Month": 2,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "054"
+		"Text": "#QuoteOfTheDay for February 23, {year}"
 	},
 	{
-		"SortOrder": 55,
+		"Id": "055",
 		"Month": 2,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "055"
+		"Text": "#QuoteOfTheDay for February 24, {year}"
 	},
 	{
-		"SortOrder": 56,
+		"Id": "056",
 		"Month": 2,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "056"
+		"Text": "#QuoteOfTheDay for February 25, {year}"
 	},
 	{
-		"SortOrder": 57,
+		"Id": "057",
 		"Month": 2,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "057"
+		"Text": "#QuoteOfTheDay for February 26, {year}"
 	},
 	{
-		"SortOrder": 58,
+		"Id": "058",
 		"Month": 2,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "058"
+		"Text": "#QuoteOfTheDay for February 27, {year}"
 	},
 	{
-		"SortOrder": 59,
+		"Id": "059",
 		"Month": 2,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "059"
+		"Text": "#QuoteOfTheDay for February 28, {year}"
 	},
 	{
-		"SortOrder": 60,
+		"Id": "060",
 		"Month": 2,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "060"
+		"Text": "#QuoteOfTheDay for February 29, {year}"
 	},
 	{
-		"SortOrder": 61,
+		"Id": "061",
 		"Month": 3,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "061"
+		"Text": "#QuoteOfTheDay for March 1, {year}"
 	},
 	{
-		"SortOrder": 62,
+		"Id": "062",
 		"Month": 3,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "062"
+		"Text": "#QuoteOfTheDay for March 2, {year}"
 	},
 	{
-		"SortOrder": 63,
+		"Id": "063",
 		"Month": 3,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "063"
+		"Text": "#QuoteOfTheDay for March 3, {year}"
 	},
 	{
-		"SortOrder": 64,
+		"Id": "064",
 		"Month": 3,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "064"
+		"Text": "#QuoteOfTheDay for March 4, {year}"
 	},
 	{
-		"SortOrder": 65,
+		"Id": "065",
 		"Month": 3,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "065"
+		"Text": "#QuoteOfTheDay for March 5, {year}"
 	},
 	{
-		"SortOrder": 66,
+		"Id": "066",
 		"Month": 3,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "066"
+		"Text": "#QuoteOfTheDay for March 6, {year}"
 	},
 	{
-		"SortOrder": 67,
+		"Id": "067",
 		"Month": 3,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "067"
+		"Text": "#QuoteOfTheDay for March 7, {year}"
 	},
 	{
-		"SortOrder": 68,
+		"Id": "068",
 		"Month": 3,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "068"
+		"Text": "#QuoteOfTheDay for March 8, {year}"
 	},
 	{
-		"SortOrder": 69,
+		"Id": "069",
 		"Month": 3,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "069"
+		"Text": "#QuoteOfTheDay for March 9, {year}"
 	},
 	{
-		"SortOrder": 70,
+		"Id": "070",
 		"Month": 3,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "070"
+		"Text": "#QuoteOfTheDay for March 10, {year}"
 	},
 	{
-		"SortOrder": 71,
+		"Id": "071",
 		"Month": 3,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "071"
+		"Text": "#QuoteOfTheDay for March 11, {year}"
 	},
 	{
-		"SortOrder": 72,
+		"Id": "072",
 		"Month": 3,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "072"
+		"Text": "#QuoteOfTheDay for March 12, {year}"
 	},
 	{
-		"SortOrder": 73,
+		"Id": "073",
 		"Month": 3,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "073"
+		"Text": "#QuoteOfTheDay for March 13, {year}"
 	},
 	{
-		"SortOrder": 74,
+		"Id": "074",
 		"Month": 3,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "074"
+		"Text": "#QuoteOfTheDay for March 14, {year}"
 	},
 	{
-		"SortOrder": 75,
+		"Id": "075",
 		"Month": 3,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "075"
+		"Text": "#QuoteOfTheDay for March 15, {year}"
 	},
 	{
-		"SortOrder": 76,
+		"Id": "076",
 		"Month": 3,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "076"
+		"Text": "#QuoteOfTheDay for March 16, {year}"
 	},
 	{
-		"SortOrder": 77,
+		"Id": "077",
 		"Month": 3,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "077"
+		"Text": "#QuoteOfTheDay for March 17, {year}"
 	},
 	{
-		"SortOrder": 78,
+		"Id": "078",
 		"Month": 3,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "078"
+		"Text": "#QuoteOfTheDay for March 18, {year}"
 	},
 	{
-		"SortOrder": 79,
+		"Id": "079",
 		"Month": 3,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "079"
+		"Text": "#QuoteOfTheDay for March 19, {year}"
 	},
 	{
-		"SortOrder": 80,
+		"Id": "080",
 		"Month": 3,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "080"
+		"Text": "#QuoteOfTheDay for March 20, {year}"
 	},
 	{
-		"SortOrder": 81,
+		"Id": "081",
 		"Month": 3,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "081"
+		"Text": "#QuoteOfTheDay for March 21, {year}"
 	},
 	{
-		"SortOrder": 82,
+		"Id": "082",
 		"Month": 3,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "082"
+		"Text": "#QuoteOfTheDay for March 22, {year}"
 	},
 	{
-		"SortOrder": 83,
+		"Id": "083",
 		"Month": 3,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "083"
+		"Text": "#QuoteOfTheDay for March 23, {year}"
 	},
 	{
-		"SortOrder": 84,
+		"Id": "084",
 		"Month": 3,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "084"
+		"Text": "#QuoteOfTheDay for March 24, {year}"
 	},
 	{
-		"SortOrder": 85,
+		"Id": "085",
 		"Month": 3,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "085"
+		"Text": "#QuoteOfTheDay for March 25, {year}"
 	},
 	{
-		"SortOrder": 86,
+		"Id": "086",
 		"Month": 3,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "086"
+		"Text": "#QuoteOfTheDay for March 26, {year}"
 	},
 	{
-		"SortOrder": 87,
+		"Id": "087",
 		"Month": 3,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "087"
+		"Text": "#QuoteOfTheDay for March 27, {year}"
 	},
 	{
-		"SortOrder": 88,
+		"Id": "088",
 		"Month": 3,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "088"
+		"Text": "#QuoteOfTheDay for March 28, {year}"
 	},
 	{
-		"SortOrder": 89,
+		"Id": "089",
 		"Month": 3,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "089"
+		"Text": "#QuoteOfTheDay for March 29, {year}"
 	},
 	{
-		"SortOrder": 90,
+		"Id": "090",
 		"Month": 3,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "090"
+		"Text": "#QuoteOfTheDay for March 30, {year}"
 	},
 	{
-		"SortOrder": 91,
+		"Id": "091",
 		"Month": 3,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "091"
+		"Text": "#QuoteOfTheDay for March 31, {year}"
 	},
 	{
-		"SortOrder": 92,
+		"Id": "092",
 		"Month": 4,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "092"
+		"Text": "#QuoteOfTheDay for April 1, {year}"
 	},
 	{
-		"SortOrder": 93,
+		"Id": "093",
 		"Month": 4,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "093"
+		"Text": "#QuoteOfTheDay for April 2, {year}"
 	},
 	{
-		"SortOrder": 94,
+		"Id": "094",
 		"Month": 4,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "094"
+		"Text": "#QuoteOfTheDay for April 3, {year}"
 	},
 	{
-		"SortOrder": 95,
+		"Id": "095",
 		"Month": 4,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "095"
+		"Text": "#QuoteOfTheDay for April 4, {year}"
 	},
 	{
-		"SortOrder": 96,
+		"Id": "096",
 		"Month": 4,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "096"
+		"Text": "#QuoteOfTheDay for April 5, {year}"
 	},
 	{
-		"SortOrder": 97,
+		"Id": "097",
 		"Month": 4,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "097"
+		"Text": "#QuoteOfTheDay for April 6, {year}"
 	},
 	{
-		"SortOrder": 98,
+		"Id": "098",
 		"Month": 4,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "098"
+		"Text": "#QuoteOfTheDay for April 7, {year}"
 	},
 	{
-		"SortOrder": 99,
+		"Id": "099",
 		"Month": 4,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "099"
+		"Text": "#QuoteOfTheDay for April 8, {year}"
 	},
 	{
-		"SortOrder": 100,
+		"Id": "100",
 		"Month": 4,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "100"
+		"Text": "#QuoteOfTheDay for April 9, {year}"
 	},
 	{
-		"SortOrder": 101,
+		"Id": "101",
 		"Month": 4,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "101"
+		"Text": "#QuoteOfTheDay for April 10, {year}"
 	},
 	{
-		"SortOrder": 102,
+		"Id": "102",
 		"Month": 4,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "102"
+		"Text": "#QuoteOfTheDay for April 11, {year}"
 	},
 	{
-		"SortOrder": 103,
+		"Id": "103",
 		"Month": 4,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "103"
+		"Text": "#QuoteOfTheDay for April 12, {year}"
 	},
 	{
-		"SortOrder": 104,
+		"Id": "104",
 		"Month": 4,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "104"
+		"Text": "#QuoteOfTheDay for April 13, {year}"
 	},
 	{
-		"SortOrder": 105,
+		"Id": "105",
 		"Month": 4,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "105"
+		"Text": "#QuoteOfTheDay for April 14, {year}"
 	},
 	{
-		"SortOrder": 106,
+		"Id": "106",
 		"Month": 4,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "106"
+		"Text": "#QuoteOfTheDay for April 15, {year}"
 	},
 	{
-		"SortOrder": 107,
+		"Id": "107",
 		"Month": 4,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "107"
+		"Text": "#QuoteOfTheDay for April 16, {year}"
 	},
 	{
-		"SortOrder": 108,
+		"Id": "108",
 		"Month": 4,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "108"
+		"Text": "#QuoteOfTheDay for April 17, {year}"
 	},
 	{
-		"SortOrder": 109,
+		"Id": "109",
 		"Month": 4,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "109"
+		"Text": "#QuoteOfTheDay for April 18, {year}"
 	},
 	{
-		"SortOrder": 110,
+		"Id": "110",
 		"Month": 4,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "110"
+		"Text": "#QuoteOfTheDay for April 19, {year}"
 	},
 	{
-		"SortOrder": 111,
+		"Id": "111",
 		"Month": 4,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "111"
+		"Text": "#QuoteOfTheDay for April 20, {year}"
 	},
 	{
-		"SortOrder": 112,
+		"Id": "112",
 		"Month": 4,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "112"
+		"Text": "#QuoteOfTheDay for April 21, {year}"
 	},
 	{
-		"SortOrder": 113,
+		"Id": "113",
 		"Month": 4,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "113"
+		"Text": "#QuoteOfTheDay for April 22, {year}"
 	},
 	{
-		"SortOrder": 114,
+		"Id": "114",
 		"Month": 4,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "114"
+		"Text": "#QuoteOfTheDay for April 23, {year}"
 	},
 	{
-		"SortOrder": 115,
+		"Id": "115",
 		"Month": 4,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "115"
+		"Text": "#QuoteOfTheDay for April 24, {year}"
 	},
 	{
-		"SortOrder": 116,
+		"Id": "116",
 		"Month": 4,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "116"
+		"Text": "#QuoteOfTheDay for April 25, {year}"
 	},
 	{
-		"SortOrder": 117,
+		"Id": "117",
 		"Month": 4,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "117"
+		"Text": "#QuoteOfTheDay for April 26, {year}"
 	},
 	{
-		"SortOrder": 118,
+		"Id": "118",
 		"Month": 4,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "118"
+		"Text": "#QuoteOfTheDay for April 27, {year}"
 	},
 	{
-		"SortOrder": 119,
+		"Id": "119",
 		"Month": 4,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "119"
+		"Text": "#QuoteOfTheDay for April 28, {year}"
 	},
 	{
-		"SortOrder": 120,
+		"Id": "120",
 		"Month": 4,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "120"
+		"Text": "#QuoteOfTheDay for April 29, {year}"
 	},
 	{
-		"SortOrder": 121,
+		"Id": "121",
 		"Month": 4,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "121"
+		"Text": "#QuoteOfTheDay for April 30, {year}"
 	},
 	{
-		"SortOrder": 122,
+		"Id": "122",
 		"Month": 5,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "122"
+		"Text": "#QuoteOfTheDay for May 1, {year}"
 	},
 	{
-		"SortOrder": 123,
+		"Id": "123",
 		"Month": 5,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "123"
+		"Text": "#QuoteOfTheDay for May 2, {year}"
 	},
 	{
-		"SortOrder": 124,
+		"Id": "124",
 		"Month": 5,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "124"
+		"Text": "#QuoteOfTheDay for May 3, {year}"
 	},
 	{
-		"SortOrder": 125,
+		"Id": "125",
 		"Month": 5,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "125"
+		"Text": "#QuoteOfTheDay for May 4, {year}"
 	},
 	{
-		"SortOrder": 126,
+		"Id": "126",
 		"Month": 5,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "126"
+		"Text": "#QuoteOfTheDay for May 5, {year}"
 	},
 	{
-		"SortOrder": 127,
+		"Id": "127",
 		"Month": 5,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "127"
+		"Text": "#QuoteOfTheDay for May 6, {year}"
 	},
 	{
-		"SortOrder": 128,
+		"Id": "128",
 		"Month": 5,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "128"
+		"Text": "#QuoteOfTheDay for May 7, {year}"
 	},
 	{
-		"SortOrder": 129,
+		"Id": "129",
 		"Month": 5,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "129"
+		"Text": "#QuoteOfTheDay for May 8, {year}"
 	},
 	{
-		"SortOrder": 130,
+		"Id": "130",
 		"Month": 5,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "130"
+		"Text": "#QuoteOfTheDay for May 9, {year}"
 	},
 	{
-		"SortOrder": 131,
+		"Id": "131",
 		"Month": 5,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "131"
+		"Text": "#QuoteOfTheDay for May 10, {year}"
 	},
 	{
-		"SortOrder": 132,
+		"Id": "132",
 		"Month": 5,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "132"
+		"Text": "#QuoteOfTheDay for May 11, {year}"
 	},
 	{
-		"SortOrder": 133,
+		"Id": "133",
 		"Month": 5,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "133"
+		"Text": "#QuoteOfTheDay for May 12, {year}"
 	},
 	{
-		"SortOrder": 134,
+		"Id": "134",
 		"Month": 5,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "134"
+		"Text": "#QuoteOfTheDay for May 13, {year}"
 	},
 	{
-		"SortOrder": 135,
+		"Id": "135",
 		"Month": 5,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "135"
+		"Text": "#QuoteOfTheDay for May 14, {year}"
 	},
 	{
-		"SortOrder": 136,
+		"Id": "136",
 		"Month": 5,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "136"
+		"Text": "#QuoteOfTheDay for May 15, {year}"
 	},
 	{
-		"SortOrder": 137,
+		"Id": "137",
 		"Month": 5,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "137"
+		"Text": "#QuoteOfTheDay for May 16, {year}"
 	},
 	{
-		"SortOrder": 138,
+		"Id": "138",
 		"Month": 5,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "138"
+		"Text": "#QuoteOfTheDay for May 17, {year}"
 	},
 	{
-		"SortOrder": 139,
+		"Id": "139",
 		"Month": 5,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "139"
+		"Text": "#QuoteOfTheDay for May 18, {year}"
 	},
 	{
-		"SortOrder": 140,
+		"Id": "140",
 		"Month": 5,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "140"
+		"Text": "#QuoteOfTheDay for May 19, {year}"
 	},
 	{
-		"SortOrder": 141,
+		"Id": "141",
 		"Month": 5,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "141"
+		"Text": "#QuoteOfTheDay for May 20, {year}"
 	},
 	{
-		"SortOrder": 142,
+		"Id": "142",
 		"Month": 5,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "142"
+		"Text": "#QuoteOfTheDay for May 21, {year}"
 	},
 	{
-		"SortOrder": 143,
+		"Id": "143",
 		"Month": 5,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "143"
+		"Text": "#QuoteOfTheDay for May 22, {year}"
 	},
 	{
-		"SortOrder": 144,
+		"Id": "144",
 		"Month": 5,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "144"
+		"Text": "#QuoteOfTheDay for May 23, {year}"
 	},
 	{
-		"SortOrder": 145,
+		"Id": "145",
 		"Month": 5,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "145"
+		"Text": "#QuoteOfTheDay for May 24, {year}"
 	},
 	{
-		"SortOrder": 146,
+		"Id": "146",
 		"Month": 5,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "146"
+		"Text": "#QuoteOfTheDay for May 25, {year}"
 	},
 	{
-		"SortOrder": 147,
+		"Id": "147",
 		"Month": 5,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "147"
+		"Text": "#QuoteOfTheDay for May 26, {year}"
 	},
 	{
-		"SortOrder": 148,
+		"Id": "148",
 		"Month": 5,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "148"
+		"Text": "#QuoteOfTheDay for May 27, {year}"
 	},
 	{
-		"SortOrder": 149,
+		"Id": "149",
 		"Month": 5,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "149"
+		"Text": "#QuoteOfTheDay for May 28, {year}"
 	},
 	{
-		"SortOrder": 150,
+		"Id": "150",
 		"Month": 5,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "150"
+		"Text": "#QuoteOfTheDay for May 29, {year}"
 	},
 	{
-		"SortOrder": 151,
+		"Id": "151",
 		"Month": 5,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "151"
+		"Text": "#QuoteOfTheDay for May 30, {year}"
 	},
 	{
-		"SortOrder": 152,
+		"Id": "152",
 		"Month": 5,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "152"
+		"Text": "#QuoteOfTheDay for May 31, {year}"
 	},
 	{
-		"SortOrder": 153,
+		"Id": "153",
 		"Month": 6,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "153"
+		"Text": "#QuoteOfTheDay for June 1, {year}"
 	},
 	{
-		"SortOrder": 154,
+		"Id": "154",
 		"Month": 6,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "154"
+		"Text": "#QuoteOfTheDay for June 2, {year}"
 	},
 	{
-		"SortOrder": 155,
+		"Id": "155",
 		"Month": 6,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "155"
+		"Text": "#QuoteOfTheDay for June 3, {year}"
 	},
 	{
-		"SortOrder": 156,
+		"Id": "156",
 		"Month": 6,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "156"
+		"Text": "#QuoteOfTheDay for June 4, {year}"
 	},
 	{
-		"SortOrder": 157,
+		"Id": "157",
 		"Month": 6,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "157"
+		"Text": "#QuoteOfTheDay for June 5, {year}"
 	},
 	{
-		"SortOrder": 158,
+		"Id": "158",
 		"Month": 6,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "158"
+		"Text": "#QuoteOfTheDay for June 6, {year}"
 	},
 	{
-		"SortOrder": 159,
+		"Id": "159",
 		"Month": 6,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "159"
+		"Text": "#QuoteOfTheDay for June 7, {year}"
 	},
 	{
-		"SortOrder": 160,
+		"Id": "160",
 		"Month": 6,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "160"
+		"Text": "#QuoteOfTheDay for June 8, {year}"
 	},
 	{
-		"SortOrder": 161,
+		"Id": "161",
 		"Month": 6,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "161"
+		"Text": "#QuoteOfTheDay for June 9, {year}"
 	},
 	{
-		"SortOrder": 162,
+		"Id": "162",
 		"Month": 6,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "162"
+		"Text": "#QuoteOfTheDay for June 10, {year}"
 	},
 	{
-		"SortOrder": 163,
+		"Id": "163",
 		"Month": 6,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "163"
+		"Text": "#QuoteOfTheDay for June 11, {year}"
 	},
 	{
-		"SortOrder": 164,
+		"Id": "164",
 		"Month": 6,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "164"
+		"Text": "#QuoteOfTheDay for June 12, {year}"
 	},
 	{
-		"SortOrder": 165,
+		"Id": "165",
 		"Month": 6,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "165"
+		"Text": "#QuoteOfTheDay for June 13, {year}"
 	},
 	{
-		"SortOrder": 166,
+		"Id": "166",
 		"Month": 6,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "166"
+		"Text": "#QuoteOfTheDay for June 14, {year}"
 	},
 	{
-		"SortOrder": 167,
+		"Id": "167",
 		"Month": 6,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "167"
+		"Text": "#QuoteOfTheDay for June 15, {year}"
 	},
 	{
-		"SortOrder": 168,
+		"Id": "168",
 		"Month": 6,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "168"
+		"Text": "#QuoteOfTheDay for June 16, {year}"
 	},
 	{
-		"SortOrder": 169,
+		"Id": "169",
 		"Month": 6,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "169"
+		"Text": "#QuoteOfTheDay for June 17, {year}"
 	},
 	{
-		"SortOrder": 170,
+		"Id": "170",
 		"Month": 6,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "170"
+		"Text": "#QuoteOfTheDay for June 18, {year}"
 	},
 	{
-		"SortOrder": 171,
+		"Id": "171",
 		"Month": 6,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "171"
+		"Text": "#QuoteOfTheDay for June 19, {year}"
 	},
 	{
-		"SortOrder": 172,
+		"Id": "172",
 		"Month": 6,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "172"
+		"Text": "#QuoteOfTheDay for June 20, {year}"
 	},
 	{
-		"SortOrder": 173,
+		"Id": "173",
 		"Month": 6,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "173"
+		"Text": "#QuoteOfTheDay for June 21, {year}"
 	},
 	{
-		"SortOrder": 174,
+		"Id": "174",
 		"Month": 6,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "174"
+		"Text": "#QuoteOfTheDay for June 22, {year}"
 	},
 	{
-		"SortOrder": 175,
+		"Id": "175",
 		"Month": 6,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "175"
+		"Text": "#QuoteOfTheDay for June 23, {year}"
 	},
 	{
-		"SortOrder": 176,
+		"Id": "176",
 		"Month": 6,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "176"
+		"Text": "#QuoteOfTheDay for June 24, {year}"
 	},
 	{
-		"SortOrder": 177,
+		"Id": "177",
 		"Month": 6,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "177"
+		"Text": "#QuoteOfTheDay for June 25, {year}"
 	},
 	{
-		"SortOrder": 178,
+		"Id": "178",
 		"Month": 6,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "178"
+		"Text": "#QuoteOfTheDay for June 26, {year}"
 	},
 	{
-		"SortOrder": 179,
+		"Id": "179",
 		"Month": 6,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "179"
+		"Text": "#QuoteOfTheDay for June 27, {year}"
 	},
 	{
-		"SortOrder": 180,
+		"Id": "180",
 		"Month": 6,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "180"
+		"Text": "#QuoteOfTheDay for June 28, {year}"
 	},
 	{
-		"SortOrder": 181,
+		"Id": "181",
 		"Month": 6,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "181"
+		"Text": "#QuoteOfTheDay for June 29, {year}"
 	},
 	{
-		"SortOrder": 182,
+		"Id": "182",
 		"Month": 6,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "182"
+		"Text": "#QuoteOfTheDay for June 30, {year}"
 	},
 	{
-		"SortOrder": 183,
+		"Id": "183",
 		"Month": 7,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "183"
+		"Text": "#QuoteOfTheDay for July 1, {year}"
 	},
 	{
-		"SortOrder": 184,
+		"Id": "184",
 		"Month": 7,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "184"
+		"Text": "#QuoteOfTheDay for July 2, {year}"
 	},
 	{
-		"SortOrder": 185,
+		"Id": "185",
 		"Month": 7,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "185"
+		"Text": "#QuoteOfTheDay for July 3, {year}"
 	},
 	{
-		"SortOrder": 186,
+		"Id": "186",
 		"Month": 7,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "186"
+		"Text": "#QuoteOfTheDay for July 4, {year}"
 	},
 	{
-		"SortOrder": 187,
+		"Id": "187",
 		"Month": 7,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "187"
+		"Text": "#QuoteOfTheDay for July 5, {year}"
 	},
 	{
-		"SortOrder": 188,
+		"Id": "188",
 		"Month": 7,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "188"
+		"Text": "#QuoteOfTheDay for July 6, {year}"
 	},
 	{
-		"SortOrder": 189,
+		"Id": "189",
 		"Month": 7,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "189"
+		"Text": "#QuoteOfTheDay for July 7, {year}"
 	},
 	{
-		"SortOrder": 190,
+		"Id": "190",
 		"Month": 7,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "190"
+		"Text": "#QuoteOfTheDay for July 8, {year}"
 	},
 	{
-		"SortOrder": 191,
+		"Id": "191",
 		"Month": 7,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "191"
+		"Text": "#QuoteOfTheDay for July 9, {year}"
 	},
 	{
-		"SortOrder": 192,
+		"Id": "192",
 		"Month": 7,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "192"
+		"Text": "#QuoteOfTheDay for July 10, {year}"
 	},
 	{
-		"SortOrder": 193,
+		"Id": "193",
 		"Month": 7,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "193"
+		"Text": "#QuoteOfTheDay for July 11, {year}"
 	},
 	{
-		"SortOrder": 194,
+		"Id": "194",
 		"Month": 7,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "194"
+		"Text": "#QuoteOfTheDay for July 12, {year}"
 	},
 	{
-		"SortOrder": 195,
+		"Id": "195",
 		"Month": 7,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "195"
+		"Text": "#QuoteOfTheDay for July 13, {year}"
 	},
 	{
-		"SortOrder": 196,
+		"Id": "196",
 		"Month": 7,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "196"
+		"Text": "#QuoteOfTheDay for July 14, {year}"
 	},
 	{
-		"SortOrder": 197,
+		"Id": "197",
 		"Month": 7,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "197"
+		"Text": "#QuoteOfTheDay for July 15, {year}"
 	},
 	{
-		"SortOrder": 198,
+		"Id": "198",
 		"Month": 7,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "198"
+		"Text": "#QuoteOfTheDay for July 16, {year}"
 	},
 	{
-		"SortOrder": 199,
+		"Id": "199",
 		"Month": 7,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "199"
+		"Text": "#QuoteOfTheDay for July 17, {year}"
 	},
 	{
-		"SortOrder": 200,
+		"Id": "200",
 		"Month": 7,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "200"
+		"Text": "#QuoteOfTheDay for July 18, {year}"
 	},
 	{
-		"SortOrder": 201,
+		"Id": "201",
 		"Month": 7,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "201"
+		"Text": "#QuoteOfTheDay for July 19, {year}"
 	},
 	{
-		"SortOrder": 202,
+		"Id": "202",
 		"Month": 7,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "202"
+		"Text": "#QuoteOfTheDay for July 20, {year}"
 	},
 	{
-		"SortOrder": 203,
+		"Id": "203",
 		"Month": 7,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "203"
+		"Text": "#QuoteOfTheDay for July 21, {year}"
 	},
 	{
-		"SortOrder": 204,
+		"Id": "204",
 		"Month": 7,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "204"
+		"Text": "#QuoteOfTheDay for July 22, {year}"
 	},
 	{
-		"SortOrder": 205,
+		"Id": "205",
 		"Month": 7,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "205"
+		"Text": "#QuoteOfTheDay for July 23, {year}"
 	},
 	{
-		"SortOrder": 206,
+		"Id": "206",
 		"Month": 7,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "206"
+		"Text": "#QuoteOfTheDay for July 24, {year}"
 	},
 	{
-		"SortOrder": 207,
+		"Id": "207",
 		"Month": 7,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "207"
+		"Text": "#QuoteOfTheDay for July 25, {year}"
 	},
 	{
-		"SortOrder": 208,
+		"Id": "208",
 		"Month": 7,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "208"
+		"Text": "#QuoteOfTheDay for July 26, {year}"
 	},
 	{
-		"SortOrder": 209,
+		"Id": "209",
 		"Month": 7,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "209"
+		"Text": "#QuoteOfTheDay for July 27, {year}"
 	},
 	{
-		"SortOrder": 210,
+		"Id": "210",
 		"Month": 7,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "210"
+		"Text": "#QuoteOfTheDay for July 28, {year}"
 	},
 	{
-		"SortOrder": 211,
+		"Id": "211",
 		"Month": 7,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "211"
+		"Text": "#QuoteOfTheDay for July 29, {year}"
 	},
 	{
-		"SortOrder": 212,
+		"Id": "212",
 		"Month": 7,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "212"
+		"Text": "#QuoteOfTheDay for July 30, {year}"
 	},
 	{
-		"SortOrder": 213,
+		"Id": "213",
 		"Month": 7,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "213"
+		"Text": "#QuoteOfTheDay for July 31, {year}"
 	},
 	{
-		"SortOrder": 214,
+		"Id": "214",
 		"Month": 8,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "214"
+		"Text": "#QuoteOfTheDay for August 1, {year}"
 	},
 	{
-		"SortOrder": 215,
+		"Id": "215",
 		"Month": 8,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "215"
+		"Text": "#QuoteOfTheDay for August 2, {year}"
 	},
 	{
-		"SortOrder": 216,
+		"Id": "216",
 		"Month": 8,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "216"
+		"Text": "#QuoteOfTheDay for August 3, {year}"
 	},
 	{
-		"SortOrder": 217,
+		"Id": "217",
 		"Month": 8,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "217"
+		"Text": "#QuoteOfTheDay for August 4, {year}"
 	},
 	{
-		"SortOrder": 218,
+		"Id": "218",
 		"Month": 8,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "218"
+		"Text": "#QuoteOfTheDay for August 5, {year}"
 	},
 	{
-		"SortOrder": 219,
+		"Id": "219",
 		"Month": 8,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "219"
+		"Text": "#QuoteOfTheDay for August 6, {year}"
 	},
 	{
-		"SortOrder": 220,
+		"Id": "220",
 		"Month": 8,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "220"
+		"Text": "#QuoteOfTheDay for August 7, {year}"
 	},
 	{
-		"SortOrder": 221,
+		"Id": "221",
 		"Month": 8,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "221"
+		"Text": "#QuoteOfTheDay for August 8, {year}"
 	},
 	{
-		"SortOrder": 222,
+		"Id": "222",
 		"Month": 8,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "222"
+		"Text": "#QuoteOfTheDay for August 9, {year}"
 	},
 	{
-		"SortOrder": 223,
+		"Id": "223",
 		"Month": 8,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "223"
+		"Text": "#QuoteOfTheDay for August 10, {year}"
 	},
 	{
-		"SortOrder": 224,
+		"Id": "224",
 		"Month": 8,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "224"
+		"Text": "#QuoteOfTheDay for August 11, {year}"
 	},
 	{
-		"SortOrder": 225,
+		"Id": "225",
 		"Month": 8,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "225"
+		"Text": "#QuoteOfTheDay for August 12, {year}"
 	},
 	{
-		"SortOrder": 226,
+		"Id": "226",
 		"Month": 8,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "226"
+		"Text": "#QuoteOfTheDay for August 13, {year}"
 	},
 	{
-		"SortOrder": 227,
+		"Id": "227",
 		"Month": 8,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "227"
+		"Text": "#QuoteOfTheDay for August 14, {year}"
 	},
 	{
-		"SortOrder": 228,
+		"Id": "228",
 		"Month": 8,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "228"
+		"Text": "#QuoteOfTheDay for August 15, {year}"
 	},
 	{
-		"SortOrder": 229,
+		"Id": "229",
 		"Month": 8,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "229"
+		"Text": "#QuoteOfTheDay for August 16, {year}"
 	},
 	{
-		"SortOrder": 230,
+		"Id": "230",
 		"Month": 8,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "230"
+		"Text": "#QuoteOfTheDay for August 17, {year}"
 	},
 	{
-		"SortOrder": 231,
+		"Id": "231",
 		"Month": 8,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "231"
+		"Text": "#QuoteOfTheDay for August 18, {year}"
 	},
 	{
-		"SortOrder": 232,
+		"Id": "232",
 		"Month": 8,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "232"
+		"Text": "#QuoteOfTheDay for August 19, {year}"
 	},
 	{
-		"SortOrder": 233,
+		"Id": "233",
 		"Month": 8,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "233"
+		"Text": "#QuoteOfTheDay for August 20, {year}"
 	},
 	{
-		"SortOrder": 234,
+		"Id": "234",
 		"Month": 8,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "234"
+		"Text": "#QuoteOfTheDay for August 21, {year}"
 	},
 	{
-		"SortOrder": 235,
+		"Id": "235",
 		"Month": 8,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "235"
+		"Text": "#QuoteOfTheDay for August 22, {year}"
 	},
 	{
-		"SortOrder": 236,
+		"Id": "236",
 		"Month": 8,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "236"
+		"Text": "#QuoteOfTheDay for August 23, {year}"
 	},
 	{
-		"SortOrder": 237,
+		"Id": "237",
 		"Month": 8,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "237"
+		"Text": "#QuoteOfTheDay for August 24, {year}"
 	},
 	{
-		"SortOrder": 238,
+		"Id": "238",
 		"Month": 8,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "238"
+		"Text": "#QuoteOfTheDay for August 25, {year}"
 	},
 	{
-		"SortOrder": 239,
+		"Id": "239",
 		"Month": 8,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "239"
+		"Text": "#QuoteOfTheDay for August 26, {year}"
 	},
 	{
-		"SortOrder": 240,
+		"Id": "240",
 		"Month": 8,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "240"
+		"Text": "#QuoteOfTheDay for August 27, {year}"
 	},
 	{
-		"SortOrder": 241,
+		"Id": "241",
 		"Month": 8,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "241"
+		"Text": "#QuoteOfTheDay for August 28, {year}"
 	},
 	{
-		"SortOrder": 242,
+		"Id": "242",
 		"Month": 8,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "242"
+		"Text": "#QuoteOfTheDay for August 29, {year}"
 	},
 	{
-		"SortOrder": 243,
+		"Id": "243",
 		"Month": 8,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "243"
+		"Text": "#QuoteOfTheDay for August 30, {year}"
 	},
 	{
-		"SortOrder": 244,
+		"Id": "244",
 		"Month": 8,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "244"
+		"Text": "#QuoteOfTheDay for August 31, {year}"
 	},
 	{
-		"SortOrder": 245,
+		"Id": "245",
 		"Month": 9,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "245"
+		"Text": "#QuoteOfTheDay for September 1, {year}"
 	},
 	{
-		"SortOrder": 246,
+		"Id": "246",
 		"Month": 9,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "246"
+		"Text": "#QuoteOfTheDay for September 2, {year}"
 	},
 	{
-		"SortOrder": 247,
+		"Id": "247",
 		"Month": 9,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "247"
+		"Text": "#QuoteOfTheDay for September 3, {year}"
 	},
 	{
-		"SortOrder": 248,
+		"Id": "248",
 		"Month": 9,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "248"
+		"Text": "#QuoteOfTheDay for September 4, {year}"
 	},
 	{
-		"SortOrder": 249,
+		"Id": "249",
 		"Month": 9,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "249"
+		"Text": "#QuoteOfTheDay for September 5, {year}"
 	},
 	{
-		"SortOrder": 250,
+		"Id": "250",
 		"Month": 9,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "250"
+		"Text": "#QuoteOfTheDay for September 6, {year}"
 	},
 	{
-		"SortOrder": 251,
+		"Id": "251",
 		"Month": 9,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "251"
+		"Text": "#QuoteOfTheDay for September 7, {year}"
 	},
 	{
-		"SortOrder": 252,
+		"Id": "252",
 		"Month": 9,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "252"
+		"Text": "#QuoteOfTheDay for September 8, {year}"
 	},
 	{
-		"SortOrder": 253,
+		"Id": "253",
 		"Month": 9,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "253"
+		"Text": "#QuoteOfTheDay for September 9, {year}"
 	},
 	{
-		"SortOrder": 254,
+		"Id": "254",
 		"Month": 9,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "254"
+		"Text": "#QuoteOfTheDay for September 10, {year}"
 	},
 	{
-		"SortOrder": 255,
+		"Id": "255",
 		"Month": 9,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "255"
+		"Text": "#QuoteOfTheDay for September 11, {year}"
 	},
 	{
-		"SortOrder": 256,
+		"Id": "256",
 		"Month": 9,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "256"
+		"Text": "#QuoteOfTheDay for September 12, {year}"
 	},
 	{
-		"SortOrder": 257,
+		"Id": "257",
 		"Month": 9,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "257"
+		"Text": "#QuoteOfTheDay for September 13, {year}"
 	},
 	{
-		"SortOrder": 258,
+		"Id": "258",
 		"Month": 9,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "258"
+		"Text": "#QuoteOfTheDay for September 14, {year}"
 	},
 	{
-		"SortOrder": 259,
+		"Id": "259",
 		"Month": 9,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "259"
+		"Text": "#QuoteOfTheDay for September 15, {year}"
 	},
 	{
-		"SortOrder": 260,
+		"Id": "260",
 		"Month": 9,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "260"
+		"Text": "#QuoteOfTheDay for September 16, {year}"
 	},
 	{
-		"SortOrder": 261,
+		"Id": "261",
 		"Month": 9,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "261"
+		"Text": "#QuoteOfTheDay for September 17, {year}"
 	},
 	{
-		"SortOrder": 262,
+		"Id": "262",
 		"Month": 9,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "262"
+		"Text": "#QuoteOfTheDay for September 18, {year}"
 	},
 	{
-		"SortOrder": 263,
+		"Id": "263",
 		"Month": 9,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "263"
+		"Text": "#QuoteOfTheDay for September 19, {year}"
 	},
 	{
-		"SortOrder": 264,
+		"Id": "264",
 		"Month": 9,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "264"
+		"Text": "#QuoteOfTheDay for September 20, {year}"
 	},
 	{
-		"SortOrder": 265,
+		"Id": "265",
 		"Month": 9,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "265"
+		"Text": "#QuoteOfTheDay for September 21, {year}"
 	},
 	{
-		"SortOrder": 266,
+		"Id": "266",
 		"Month": 9,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "266"
+		"Text": "#QuoteOfTheDay for September 22, {year}"
 	},
 	{
-		"SortOrder": 267,
+		"Id": "267",
 		"Month": 9,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "267"
+		"Text": "#QuoteOfTheDay for September 23, {year}"
 	},
 	{
-		"SortOrder": 268,
+		"Id": "268",
 		"Month": 9,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "268"
+		"Text": "#QuoteOfTheDay for September 24, {year}"
 	},
 	{
-		"SortOrder": 269,
+		"Id": "269",
 		"Month": 9,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "269"
+		"Text": "#QuoteOfTheDay for September 25, {year}"
 	},
 	{
-		"SortOrder": 270,
+		"Id": "270",
 		"Month": 9,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "270"
+		"Text": "#QuoteOfTheDay for September 26, {year}"
 	},
 	{
-		"SortOrder": 271,
+		"Id": "271",
 		"Month": 9,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "271"
+		"Text": "#QuoteOfTheDay for September 27, {year}"
 	},
 	{
-		"SortOrder": 272,
+		"Id": "272",
 		"Month": 9,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "272"
+		"Text": "#QuoteOfTheDay for September 28, {year}"
 	},
 	{
-		"SortOrder": 273,
+		"Id": "273",
 		"Month": 9,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "273"
+		"Text": "#QuoteOfTheDay for September 29, {year}"
 	},
 	{
-		"SortOrder": 274,
+		"Id": "274",
 		"Month": 9,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "274"
+		"Text": "#QuoteOfTheDay for September 30, {year}"
 	},
 	{
-		"SortOrder": 275,
+		"Id": "275",
 		"Month": 10,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "275"
+		"Text": "#QuoteOfTheDay for October 1, {year}"
 	},
 	{
-		"SortOrder": 276,
+		"Id": "276",
 		"Month": 10,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "276"
+		"Text": "#QuoteOfTheDay for October 2, {year}"
 	},
 	{
-		"SortOrder": 277,
+		"Id": "277",
 		"Month": 10,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "277"
+		"Text": "#QuoteOfTheDay for October 3, {year}"
 	},
 	{
-		"SortOrder": 278,
+		"Id": "278",
 		"Month": 10,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "278"
+		"Text": "#QuoteOfTheDay for October 4, {year}"
 	},
 	{
-		"SortOrder": 279,
+		"Id": "279",
 		"Month": 10,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "279"
+		"Text": "#QuoteOfTheDay for October 5, {year}"
 	},
 	{
-		"SortOrder": 280,
+		"Id": "280",
 		"Month": 10,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "280"
+		"Text": "#QuoteOfTheDay for October 6, {year}"
 	},
 	{
-		"SortOrder": 281,
+		"Id": "281",
 		"Month": 10,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "281"
+		"Text": "#QuoteOfTheDay for October 7, {year}"
 	},
 	{
-		"SortOrder": 282,
+		"Id": "282",
 		"Month": 10,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "282"
+		"Text": "#QuoteOfTheDay for October 8, {year}"
 	},
 	{
-		"SortOrder": 283,
+		"Id": "283",
 		"Month": 10,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "283"
+		"Text": "#QuoteOfTheDay for October 9, {year}"
 	},
 	{
-		"SortOrder": 284,
+		"Id": "284",
 		"Month": 10,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "284"
+		"Text": "#QuoteOfTheDay for October 10, {year}"
 	},
 	{
-		"SortOrder": 285,
+		"Id": "285",
 		"Month": 10,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "285"
+		"Text": "#QuoteOfTheDay for October 11, {year}"
 	},
 	{
-		"SortOrder": 286,
+		"Id": "286",
 		"Month": 10,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "286"
+		"Text": "#QuoteOfTheDay for October 12, {year}"
 	},
 	{
-		"SortOrder": 287,
+		"Id": "287",
 		"Month": 10,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "287"
+		"Text": "#QuoteOfTheDay for October 13, {year}"
 	},
 	{
-		"SortOrder": 288,
+		"Id": "288",
 		"Month": 10,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "288"
+		"Text": "#QuoteOfTheDay for October 14, {year}"
 	},
 	{
-		"SortOrder": 289,
+		"Id": "289",
 		"Month": 10,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "289"
+		"Text": "#QuoteOfTheDay for October 15, {year}"
 	},
 	{
-		"SortOrder": 290,
+		"Id": "290",
 		"Month": 10,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "290"
+		"Text": "#QuoteOfTheDay for October 16, {year}"
 	},
 	{
-		"SortOrder": 291,
+		"Id": "291",
 		"Month": 10,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "291"
+		"Text": "#QuoteOfTheDay for October 17, {year}"
 	},
 	{
-		"SortOrder": 292,
+		"Id": "292",
 		"Month": 10,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "292"
+		"Text": "#QuoteOfTheDay for October 18, {year}"
 	},
 	{
-		"SortOrder": 293,
+		"Id": "293",
 		"Month": 10,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "293"
+		"Text": "#QuoteOfTheDay for October 19, {year}"
 	},
 	{
-		"SortOrder": 294,
+		"Id": "294",
 		"Month": 10,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "294"
+		"Text": "#QuoteOfTheDay for October 20, {year}"
 	},
 	{
-		"SortOrder": 295,
+		"Id": "295",
 		"Month": 10,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "295"
+		"Text": "#QuoteOfTheDay for October 21, {year}"
 	},
 	{
-		"SortOrder": 296,
+		"Id": "296",
 		"Month": 10,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "296"
+		"Text": "#QuoteOfTheDay for October 22, {year}"
 	},
 	{
-		"SortOrder": 297,
+		"Id": "297",
 		"Month": 10,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "297"
+		"Text": "#QuoteOfTheDay for October 23, {year}"
 	},
 	{
-		"SortOrder": 298,
+		"Id": "298",
 		"Month": 10,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "298"
+		"Text": "#QuoteOfTheDay for October 24, {year}"
 	},
 	{
-		"SortOrder": 299,
+		"Id": "299",
 		"Month": 10,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "299"
+		"Text": "#QuoteOfTheDay for October 25, {year}"
 	},
 	{
-		"SortOrder": 300,
+		"Id": "300",
 		"Month": 10,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "300"
+		"Text": "#QuoteOfTheDay for October 26, {year}"
 	},
 	{
-		"SortOrder": 301,
+		"Id": "301",
 		"Month": 10,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "301"
+		"Text": "#QuoteOfTheDay for October 27, {year}"
 	},
 	{
-		"SortOrder": 302,
+		"Id": "302",
 		"Month": 10,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "302"
+		"Text": "#QuoteOfTheDay for October 28, {year}"
 	},
 	{
-		"SortOrder": 303,
+		"Id": "303",
 		"Month": 10,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "303"
+		"Text": "#QuoteOfTheDay for October 29, {year}"
 	},
 	{
-		"SortOrder": 304,
+		"Id": "304",
 		"Month": 10,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "304"
+		"Text": "#QuoteOfTheDay for October 30, {year}"
 	},
 	{
-		"SortOrder": 305,
+		"Id": "305",
 		"Month": 10,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "305"
+		"Text": "#QuoteOfTheDay for October 31, {year}"
 	},
 	{
-		"SortOrder": 306,
+		"Id": "306",
 		"Month": 11,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "306"
+		"Text": "#QuoteOfTheDay for November 1, {year}"
 	},
 	{
-		"SortOrder": 307,
+		"Id": "307",
 		"Month": 11,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "307"
+		"Text": "#QuoteOfTheDay for November 2, {year}"
 	},
 	{
-		"SortOrder": 308,
+		"Id": "308",
 		"Month": 11,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "308"
+		"Text": "#QuoteOfTheDay for November 3, {year}"
 	},
 	{
-		"SortOrder": 309,
+		"Id": "309",
 		"Month": 11,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "309"
+		"Text": "#QuoteOfTheDay for November 4, {year}"
 	},
 	{
-		"SortOrder": 310,
+		"Id": "310",
 		"Month": 11,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "310"
+		"Text": "#QuoteOfTheDay for November 5, {year}"
 	},
 	{
-		"SortOrder": 311,
+		"Id": "311",
 		"Month": 11,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "311"
+		"Text": "#QuoteOfTheDay for November 6, {year}"
 	},
 	{
-		"SortOrder": 312,
+		"Id": "312",
 		"Month": 11,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "312"
+		"Text": "#QuoteOfTheDay for November 7, {year}"
 	},
 	{
-		"SortOrder": 313,
+		"Id": "313",
 		"Month": 11,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "313"
+		"Text": "#QuoteOfTheDay for November 8, {year}"
 	},
 	{
-		"SortOrder": 314,
+		"Id": "314",
 		"Month": 11,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "314"
+		"Text": "#QuoteOfTheDay for November 9, {year}"
 	},
 	{
-		"SortOrder": 315,
+		"Id": "315",
 		"Month": 11,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "315"
+		"Text": "#QuoteOfTheDay for November 10, {year}"
 	},
 	{
-		"SortOrder": 316,
+		"Id": "316",
 		"Month": 11,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "316"
+		"Text": "#QuoteOfTheDay for November 11, {year}"
 	},
 	{
-		"SortOrder": 317,
+		"Id": "317",
 		"Month": 11,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "317"
+		"Text": "#QuoteOfTheDay for November 12, {year}"
 	},
 	{
-		"SortOrder": 318,
+		"Id": "318",
 		"Month": 11,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "318"
+		"Text": "#QuoteOfTheDay for November 13, {year}"
 	},
 	{
-		"SortOrder": 319,
+		"Id": "319",
 		"Month": 11,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "319"
+		"Text": "#QuoteOfTheDay for November 14, {year}"
 	},
 	{
-		"SortOrder": 320,
+		"Id": "320",
 		"Month": 11,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "320"
+		"Text": "#QuoteOfTheDay for November 15, {year}"
 	},
 	{
-		"SortOrder": 321,
+		"Id": "321",
 		"Month": 11,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "321"
+		"Text": "#QuoteOfTheDay for November 16, {year}"
 	},
 	{
-		"SortOrder": 322,
+		"Id": "322",
 		"Month": 11,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "322"
+		"Text": "#QuoteOfTheDay for November 17, {year}"
 	},
 	{
-		"SortOrder": 323,
+		"Id": "323",
 		"Month": 11,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "323"
+		"Text": "#QuoteOfTheDay for November 18, {year}"
 	},
 	{
-		"SortOrder": 324,
+		"Id": "324",
 		"Month": 11,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "324"
+		"Text": "#QuoteOfTheDay for November 19, {year}"
 	},
 	{
-		"SortOrder": 325,
+		"Id": "325",
 		"Month": 11,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "325"
+		"Text": "#QuoteOfTheDay for November 20, {year}"
 	},
 	{
-		"SortOrder": 326,
+		"Id": "326",
 		"Month": 11,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "326"
+		"Text": "#QuoteOfTheDay for November 21, {year}"
 	},
 	{
-		"SortOrder": 327,
+		"Id": "327",
 		"Month": 11,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "327"
+		"Text": "#QuoteOfTheDay for November 22, {year}"
 	},
 	{
-		"SortOrder": 328,
+		"Id": "328",
 		"Month": 11,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "328"
+		"Text": "#QuoteOfTheDay for November 23, {year}"
 	},
 	{
-		"SortOrder": 329,
+		"Id": "329",
 		"Month": 11,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "329"
+		"Text": "#QuoteOfTheDay for November 24, {year}"
 	},
 	{
-		"SortOrder": 330,
+		"Id": "330",
 		"Month": 11,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "330"
+		"Text": "#QuoteOfTheDay for November 25, {year}"
 	},
 	{
-		"SortOrder": 331,
+		"Id": "331",
 		"Month": 11,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "331"
+		"Text": "#QuoteOfTheDay for November 26, {year}"
 	},
 	{
-		"SortOrder": 332,
+		"Id": "332",
 		"Month": 11,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "332"
+		"Text": "#QuoteOfTheDay for November 27, {year}"
 	},
 	{
-		"SortOrder": 333,
+		"Id": "333",
 		"Month": 11,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "333"
+		"Text": "#QuoteOfTheDay for November 28, {year}"
 	},
 	{
-		"SortOrder": 334,
+		"Id": "334",
 		"Month": 11,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "334"
+		"Text": "#QuoteOfTheDay for November 29, {year}"
 	},
 	{
-		"SortOrder": 335,
+		"Id": "335",
 		"Month": 11,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "335"
+		"Text": "#QuoteOfTheDay for November 30, {year}"
 	},
 	{
-		"SortOrder": 336,
+		"Id": "336",
 		"Month": 12,
 		"Day": 1,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "336"
+		"Text": "#QuoteOfTheDay for December 1, {year}"
 	},
 	{
-		"SortOrder": 337,
+		"Id": "337",
 		"Month": 12,
 		"Day": 2,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "337"
+		"Text": "#QuoteOfTheDay for December 2, {year}"
 	},
 	{
-		"SortOrder": 338,
+		"Id": "338",
 		"Month": 12,
 		"Day": 3,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "338"
+		"Text": "#QuoteOfTheDay for December 3, {year}"
 	},
 	{
-		"SortOrder": 339,
+		"Id": "339",
 		"Month": 12,
 		"Day": 4,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "339"
+		"Text": "#QuoteOfTheDay for December 4, {year}"
 	},
 	{
-		"SortOrder": 340,
+		"Id": "340",
 		"Month": 12,
 		"Day": 5,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "340"
+		"Text": "#QuoteOfTheDay for December 5, {year}"
 	},
 	{
-		"SortOrder": 341,
+		"Id": "341",
 		"Month": 12,
 		"Day": 6,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "341"
+		"Text": "#QuoteOfTheDay for December 6, {year}"
 	},
 	{
-		"SortOrder": 342,
+		"Id": "342",
 		"Month": 12,
 		"Day": 7,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "342"
+		"Text": "#QuoteOfTheDay for December 7, {year}"
 	},
 	{
-		"SortOrder": 343,
+		"Id": "343",
 		"Month": 12,
 		"Day": 8,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "343"
+		"Text": "#QuoteOfTheDay for December 8, {year}"
 	},
 	{
-		"SortOrder": 344,
+		"Id": "344",
 		"Month": 12,
 		"Day": 9,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "344"
+		"Text": "#QuoteOfTheDay for December 9, {year}"
 	},
 	{
-		"SortOrder": 345,
+		"Id": "345",
 		"Month": 12,
 		"Day": 10,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "345"
+		"Text": "#QuoteOfTheDay for December 10, {year}"
 	},
 	{
-		"SortOrder": 346,
+		"Id": "346",
 		"Month": 12,
 		"Day": 11,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "346"
+		"Text": "#QuoteOfTheDay for December 11, {year}"
 	},
 	{
-		"SortOrder": 347,
+		"Id": "347",
 		"Month": 12,
 		"Day": 12,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "347"
+		"Text": "#QuoteOfTheDay for December 12, {year}"
 	},
 	{
-		"SortOrder": 348,
+		"Id": "348",
 		"Month": 12,
 		"Day": 13,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "348"
+		"Text": "#QuoteOfTheDay for December 13, {year}"
 	},
 	{
-		"SortOrder": 349,
+		"Id": "349",
 		"Month": 12,
 		"Day": 14,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "349"
+		"Text": "#QuoteOfTheDay for December 14, {year}"
 	},
 	{
-		"SortOrder": 350,
+		"Id": "350",
 		"Month": 12,
 		"Day": 15,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "350"
+		"Text": "#QuoteOfTheDay for December 15, {year}"
 	},
 	{
-		"SortOrder": 351,
+		"Id": "351",
 		"Month": 12,
 		"Day": 16,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "351"
+		"Text": "#QuoteOfTheDay for December 16, {year}"
 	},
 	{
-		"SortOrder": 352,
+		"Id": "352",
 		"Month": 12,
 		"Day": 17,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "352"
+		"Text": "#QuoteOfTheDay for December 17, {year}"
 	},
 	{
-		"SortOrder": 353,
+		"Id": "353",
 		"Month": 12,
 		"Day": 18,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "353"
+		"Text": "#QuoteOfTheDay for December 18, {year}"
 	},
 	{
-		"SortOrder": 354,
+		"Id": "354",
 		"Month": 12,
 		"Day": 19,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "354"
+		"Text": "#QuoteOfTheDay for December 19, {year}"
 	},
 	{
-		"SortOrder": 355,
+		"Id": "355",
 		"Month": 12,
 		"Day": 20,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "355"
+		"Text": "#QuoteOfTheDay for December 20, {year}"
 	},
 	{
-		"SortOrder": 356,
+		"Id": "356",
 		"Month": 12,
 		"Day": 21,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "356"
+		"Text": "#QuoteOfTheDay for December 21, {year}"
 	},
 	{
-		"SortOrder": 357,
+		"Id": "357",
 		"Month": 12,
 		"Day": 22,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "357"
+		"Text": "#QuoteOfTheDay for December 22, {year}"
 	},
 	{
-		"SortOrder": 358,
+		"Id": "358",
 		"Month": 12,
 		"Day": 23,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "358"
+		"Text": "#QuoteOfTheDay for December 23, {year}"
 	},
 	{
-		"SortOrder": 359,
+		"Id": "359",
 		"Month": 12,
 		"Day": 24,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "359"
+		"Text": "#QuoteOfTheDay for December 24, {year}"
 	},
 	{
-		"SortOrder": 360,
+		"Id": "360",
 		"Month": 12,
 		"Day": 25,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "360"
+		"Text": "#QuoteOfTheDay for December 25, {year}"
 	},
 	{
-		"SortOrder": 361,
+		"Id": "361",
 		"Month": 12,
 		"Day": 26,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "361"
+		"Text": "#QuoteOfTheDay for December 26, {year}"
 	},
 	{
-		"SortOrder": 362,
+		"Id": "362",
 		"Month": 12,
 		"Day": 27,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "362"
+		"Text": "#QuoteOfTheDay for December 27, {year}"
 	},
 	{
-		"SortOrder": 363,
+		"Id": "363",
 		"Month": 12,
 		"Day": 28,
 		"Hour": 7,
 		"Minute": 30,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "363"
+		"Text": "#QuoteOfTheDay for December 28, {year}"
 	},
 	{
-		"SortOrder": 364,
+		"Id": "364",
 		"Month": 12,
 		"Day": 29,
 		"Hour": 7,
 		"Minute": 40,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "364"
+		"Text": "#QuoteOfTheDay for December 29, {year}"
 	},
 	{
-		"SortOrder": 365,
+		"Id": "365",
 		"Month": 12,
 		"Day": 30,
 		"Hour": 7,
 		"Minute": 35,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "365"
+		"Text": "#QuoteOfTheDay for December 30, {year}"
 	},
 	{
-		"SortOrder": 366,
+		"Id": "366",
 		"Month": 12,
 		"Day": 31,
 		"Hour": 7,
 		"Minute": 25,
-		"Text": "#QuoteOfTheDay for ",
-		"ImageId": "366"
+		"Text": "#QuoteOfTheDay for December 31, {year}"
 	}
 ]

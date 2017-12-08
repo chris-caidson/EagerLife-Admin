@@ -3,9 +3,9 @@ import { Nav, Platform } from 'ionic-angular';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
-import { HomePage } from '../pages/home/home';
-import { DatabasePage } from '../pages/database/database';
-import { AboutPage } from '../pages/about/about';
+import { HomePage } from '../pages/home/home.page';
+import { DatabasePage } from '../pages/database/database.page';
+import { AboutPage } from '../pages/about/about.page';
 
 @Component({
 	selector: 'eagerlife-admin-app',
