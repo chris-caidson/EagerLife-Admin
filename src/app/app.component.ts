@@ -24,8 +24,8 @@ export class MyApp {
 
 		this.pages = [
 			{ title: 'Home', component: HomePage, icon: 'home' },
-			{ title: 'Daily Data Updates', component: DailyDataUpdatesPage, icon: 'pencil' },
-			{ title: 'Daily Data Seeding', component: DailyDataSeedingPage, icon: 'calendar' },
+			{ title: 'Daily Data Updates', component: DailyDataUpdatesPage, icon: 'calendar' },
+			{ title: 'Daily Data Seeding', component: DailyDataSeedingPage, icon: 'files-o' },
 			{ title: 'About', component: AboutPage, icon: 'info-circle' }
 		];
 	}

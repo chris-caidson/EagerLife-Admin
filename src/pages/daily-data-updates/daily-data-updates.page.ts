@@ -19,6 +19,7 @@ export class DailyDataUpdatesPage {
 	isGettingDailyContent: boolean;
 	isUpdatingDailyContent: boolean;
 	currentYear: number;
+	imageUrl: string;
 
 	constructor(
 		public navCtrl: NavController,
@@ -47,17 +48,14 @@ export class DailyDataUpdatesPage {
 	async getDailyContent() {
 		this.isGettingDailyContent = true;
 		this.dailyContentResult = await this.dataService.getDailyData(this.contentType, this.month, this.day);
-
-		if (this.dailyContentResult) {
-			this.dailyContentResult.Text = this.dailyContentResult.Text
-				.replace('{year}', this.utility.getCurrentYear().toString() + '...');
-		}
-
+		this.imageUrl = await this.dataService.getImage(this.contentType, this.dailyContentResult.Id);
 		this.isGettingDailyContent = false;
 		this.hasRetrievedDailyContent = true;
 	}
 
-	updateDailyContent() {
-		alert('Not implemented yet.');
+	async updateDailyContent() {
+		this.isUpdatingDailyContent = true;
+		await this.dataService.updateDailyData(this.contentType, this.dailyContentResult);
+		this.isUpdatingDailyContent = false;
 	}
 }

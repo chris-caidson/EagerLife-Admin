@@ -4,7 +4,7 @@
 			<ion-icon name="menu"></ion-icon>
 		</button>
 		<ion-title>
-			<i class="fa fa-pencil primary right-spacer" item-start></i>Daily Data Updates
+			<i class="fa fa-calendar primary right-spacer" item-start></i>Daily Data Updates
 		</ion-title>
 	</ion-navbar>
 </ion-header>
@@ -84,19 +84,39 @@
 		<ion-card-content>
 			<div class="wrapper">
 				<div class="item-label">Id:</div>
-				<div class="item-content">{{dailyContentResult?.Id}}</div>
+				<div class="item-content">
+					<ion-input class="disabled-input" [(ngModel)]="dailyContentResult.Id" [disabled]="true"></ion-input>
+				</div>
+
 				<div class="item-label">Month:</div>
-				<div class="item-content">{{dailyContentResult?.Month}}</div>
+				<div class="item-content">
+					<ion-input [(ngModel)]="dailyContentResult.Month"></ion-input>
+				</div>
+
 				<div class="item-label">Day:</div>
-				<div class="item-content">{{dailyContentResult?.Day}}</div>
+				<div class="item-content">
+					<ion-input [(ngModel)]="dailyContentResult.Day"></ion-input>
+				</div>
+
 				<div class="item-label">Hour:</div>
-				<div class="item-content">{{dailyContentResult?.Hour}}</div>
+				<div class="item-content">
+					<ion-input [(ngModel)]="dailyContentResult.Hour"></ion-input>
+				</div>
+
 				<div class="item-label">Minute:</div>
-				<div class="item-content">{{dailyContentResult?.Minute}}</div>
+				<div class="item-content">
+					<ion-input [(ngModel)]="dailyContentResult.Minute"></ion-input>
+				</div>
+
 				<div class="item-label">Text:</div>
-				<div class="item-content">{{dailyContentResult?.Text}}</div>
+				<div class="item-content">
+					<ion-textarea id="contentText" [(ngModel)]="dailyContentResult.Text"></ion-textarea>
+				</div>
+
 				<div class="item-label">Image:</div>
-				<div class="item-content"></div>
+				<div class="item-content">
+					<img src="{{imageUrl}}" alt="" />
+				</div>
 			</div>
 			<div>
 				<button full ion-button color="secondary" (click)="updateDailyContent()">

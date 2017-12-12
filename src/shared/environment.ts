@@ -5,7 +5,7 @@ export const environment = {
 		authDomain: "eager-life.firebaseapp.com",
 		databaseURL: "https://eager-life.firebaseio.com",
 		projectId: "eager-life",
-		storageBucket: "eager-life.appspot.com",
+		storageBucket: "gs://eager-life.appspot.com",
 		messagingSenderId: "21340103556"
 	}
 };

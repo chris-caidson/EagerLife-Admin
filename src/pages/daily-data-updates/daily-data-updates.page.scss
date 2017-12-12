@@ -17,12 +17,31 @@ page-daily-data-updates {
 
     .item-label {
         color: #777;
-		margin-bottom: 10px;
 		grid-column: 1/2;
 		text-align: right;
+		padding-top: 13px;
 	}
 	
 	.item-content {
 		grid-column: 2/2;
+	}
+
+	ion-input, ion-textarea {
+		border: 1px solid #AAA;
+		border-radius: 8px;
+		box-shadow: 2px 2px 4px #CCC inset;
+		background-color: #FBFBFB;
+	}
+
+	contentText, textarea {
+		min-height: 125px;
+		height: 125px;
+	}
+
+	.disabled-input {
+		box-shadow: 2px 2px 4px #AAA inset;
+		background-color: #DEDEDE;
+		color: #000;
+		font-weight: bold;
 	}
 }

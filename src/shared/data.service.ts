@@ -4,6 +4,8 @@ import { Observable } from 'rxjs/Observable';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
+import * as firebase from 'firebase/app'; // for typings
+import { FirebaseApp } from 'angularfire2'; // for methods
 
 import { DailyItem } from '../model/daily-item.interface';
 import { firestore } from 'firebase/app';
@@ -11,26 +13,9 @@ import { firestore } from 'firebase/app';
 @Injectable()
 export class DataService {
 
-	constructor(private http: Http, private afs: AngularFirestore) { }
+	constructor(private http: Http, private afs: AngularFirestore, private app: FirebaseApp) { }
 
 	public getDailyData(contentType: string, month: number, day: number): Promise<DailyItem> {
-		// firestore()
-		// 	.collection(contentType)
-		// 	.where("Month", "==", +month)
-		// 	.where("Day", "==", +day)
-		// 	.get()
-		// 	.then(querySnapshot => {
-		// 		if (querySnapshot.size > 0) {
-		// 			return querySnapshot.docs[0].data() as DailyItem;
-		// 		}
-		// 		else {
-		// 			return null;
-		// 		}
-		// 	})
-		// 	.catch(error => console.log(error));
-
-		// return null;
-
 		return new Promise((resolve, reject) => {
 			firestore()
 				.collection(contentType)
@@ -41,6 +26,49 @@ export class DataService {
 					resolve(snapshot.size > 0 ? snapshot.docs[0].data() as DailyItem : null)
 				})
 				.catch(error => reject(error));
+		});
+	}
+
+	public updateDailyData(contentType: string, dailyItem: DailyItem): Promise<DailyItem> {
+		return new Promise((resolve, reject) => {
+			firestore()
+				.collection(contentType)
+				.doc(dailyItem.Id)
+				.update({
+					Month: +dailyItem.Month,
+					Day: +dailyItem.Day,
+					Hour: +dailyItem.Hour,
+					Minute: +dailyItem.Minute,
+					Text: dailyItem.Text
+				})
+				.then(() => resolve(dailyItem))
+				.catch(error => reject(error));
+		})
+	}
+
+	public getImage(contentType: string, imageId: string): Promise<string> {
+		return new Promise((resolve, reject) => {
+			var storagePath: string = '';
+
+			switch (contentType) {
+				case 'DailyCalm': storagePath = 'daily-calm'; break;
+				case 'DailyMotivation': storagePath = 'daily-motivation'; break;
+				case 'QuoteOfTheDay': storagePath = 'quote-of-the-day'; break;
+				case 'VisionBoard': storagePath = 'vision-board'; break;
+			}
+
+			const storageRef = this.app.storage().ref();
+			var path = `${storagePath}/${imageId}.jpg`;
+			var img = storageRef.child(path);
+
+			try {
+				img.getDownloadURL()
+					.then(value => resolve(value))
+					.catch(error => reject(error));
+			}
+			catch (error){
+				resolve(null);	
+			}
 		});
 	}
 
