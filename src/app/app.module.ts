@@ -8,7 +8,8 @@ import { environment } from '../shared/environment';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home.page';
-import { DatabasePage } from '../pages/database/database.page';
+import { DailyDataSeedingPage } from '../pages/daily-data-seeding/daily-data-seeding.page';
+import { DailyDataUpdatesPage } from '../pages/daily-data-updates/daily-data-updates.page';
 import { AboutPage } from '../pages/about/about.page';
 
 import { StatusBar } from '@ionic-native/status-bar';
@@ -20,7 +21,8 @@ import { DataService } from '../shared/data.service';
 	declarations: [
 		MyApp,
 		HomePage,
-		DatabasePage,
+		DailyDataSeedingPage,
+		DailyDataUpdatesPage,
 		AboutPage
 	],
 	imports: [
@@ -34,7 +36,8 @@ import { DataService } from '../shared/data.service';
 	entryComponents: [
 		MyApp,
 		HomePage,
-		DatabasePage,
+		DailyDataSeedingPage,
+		DailyDataUpdatesPage,
 		AboutPage
 	],
 	providers: [

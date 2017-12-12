@@ -6,23 +6,18 @@ import { DailyItem } from '../../model/daily-item.interface';
 import { CalendarMonth } from '../../model/calendar-month.interface';
 
 @Component({
-	selector: 'page-database',
-	templateUrl: 'database.page.html',
+	selector: 'page-daily-data-updates',
+	templateUrl: 'daily-data-updates.page.html',
 })
-export class DatabasePage {
+export class DailyDataUpdatesPage {
 	contentType: string = "DailyCalm";
 	month: number = 1;
 	day: number = 1;
 	dailyContentResult: DailyItem = null;
 	hasRetrievedDailyContent: boolean;
 	months: CalendarMonth[] = [];
-
 	isGettingDailyContent: boolean;
-	isSeedingDailyCalm: boolean;
-	isSeedingDailyMotivation: boolean;
-	isSeedingQuoteOfTheDay: boolean;
-	isSeedingVisionBoard: boolean;
-
+	isUpdatingDailyContent: boolean;
 	currentYear: number;
 
 	constructor(
@@ -49,34 +44,20 @@ export class DatabasePage {
 		this.currentYear = this.utility.getCurrentYear();
 	}
 
-	async seedDailyCalm() {
-		this.isSeedingDailyCalm = true;
-		await this.dataService.seedDailyCalm();
-		this.isSeedingDailyCalm = false;
-	}
-
-	async seedDailyMotivation() {
-		this.isSeedingDailyMotivation = true;
-		await this.dataService.seedDailyMotivation();
-		this.isSeedingDailyMotivation = false;
-	}
-
-	async seedQuoteOfTheDay() {
-		this.isSeedingQuoteOfTheDay = true;
-		await this.dataService.seedQuoteOfTheDay();
-		this.isSeedingQuoteOfTheDay = false;
-	}
-
-	async seedVisionBoard() {
-		this.isSeedingVisionBoard = true;
-		await this.dataService.seedVisionBoard();
-		this.isSeedingVisionBoard = false;
-	}
-
 	async getDailyContent() {
 		this.isGettingDailyContent = true;
 		this.dailyContentResult = await this.dataService.getDailyData(this.contentType, this.month, this.day);
+
+		if (this.dailyContentResult) {
+			this.dailyContentResult.Text = this.dailyContentResult.Text
+				.replace('{year}', this.utility.getCurrentYear().toString() + '...');
+		}
+
 		this.isGettingDailyContent = false;
 		this.hasRetrievedDailyContent = true;
+	}
+
+	updateDailyContent() {
+		alert('Not implemented yet.');
 	}
 }

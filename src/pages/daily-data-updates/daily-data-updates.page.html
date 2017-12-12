@@ -1,0 +1,124 @@
+<ion-header>
+	<ion-navbar>
+		<button ion-button menuToggle>
+			<ion-icon name="menu"></ion-icon>
+		</button>
+		<ion-title>
+			<i class="fa fa-pencil primary right-spacer" item-start></i>Daily Data Updates
+		</ion-title>
+	</ion-navbar>
+</ion-header>
+
+<ion-content class="ion-content">
+	<ion-card class="bottom-spacer">
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-search right-spacer"></i>Content Search
+		</ion-card-header>
+		<ion-card-content>
+			<div>
+				<ion-item class="select-separator">
+					<ion-label>Content Type</ion-label>
+					<ion-select [(ngModel)]="contentType">
+						<ion-option value="DailyCalm">Daily Calm</ion-option>
+						<ion-option value="DailyMotivation">Daily Motivation</ion-option>
+						<ion-option value="QuoteOfTheDay">Quote of the Day</ion-option>
+						<ion-option value="VisionBoard">Vision Board</ion-option>
+					</ion-select>
+				</ion-item>
+				<ion-item class="select-separator">
+					<ion-label>Month</ion-label>
+					<ion-select [(ngModel)]="month">
+						<ion-option *ngFor="let m of months" value="{{m.Index}}">{{m.Name}}</ion-option>
+					</ion-select>
+				</ion-item>
+				<ion-item>
+					<ion-label>Day</ion-label>
+					<ion-select [(ngModel)]="day">
+						<ion-option value="1">1</ion-option>
+						<ion-option value="2">2</ion-option>
+						<ion-option value="3">3</ion-option>
+						<ion-option value="4">4</ion-option>
+						<ion-option value="5">5</ion-option>
+						<ion-option value="6">6</ion-option>
+						<ion-option value="7">7</ion-option>
+						<ion-option value="8">8</ion-option>
+						<ion-option value="9">9</ion-option>
+						<ion-option value="10">10</ion-option>
+						<ion-option value="11">11</ion-option>
+						<ion-option value="12">12</ion-option>
+						<ion-option value="13">13</ion-option>
+						<ion-option value="14">14</ion-option>
+						<ion-option value="15">15</ion-option>
+						<ion-option value="16">16</ion-option>
+						<ion-option value="17">17</ion-option>
+						<ion-option value="18">18</ion-option>
+						<ion-option value="19">19</ion-option>
+						<ion-option value="20">20</ion-option>
+						<ion-option value="21">21</ion-option>
+						<ion-option value="22">22</ion-option>
+						<ion-option value="23">23</ion-option>
+						<ion-option value="24">24</ion-option>
+						<ion-option value="25">25</ion-option>
+						<ion-option value="26">26</ion-option>
+						<ion-option value="27">27</ion-option>
+						<ion-option value="28">28</ion-option>
+						<ion-option value="29">29</ion-option>
+						<ion-option value="30" *ngIf="month !=2 ">30</ion-option>
+						<ion-option value="31" *ngIf="month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12">31</ion-option>
+					</ion-select>
+				</ion-item>
+				<div>
+					<button full ion-button color="secondary" (click)="getDailyContent()" [disabled]=isGettingDailyContent>
+						<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isGettingDailyContent></i>
+						{{isGettingDailyContent ? "Getting data..." : "Submit"}}
+					</button>
+				</div>
+			</div>
+		</ion-card-content>
+	</ion-card>
+
+	<ion-card class="bottom-spacer" *ngIf="dailyContentResult !== null && !isGettingDailyContent">
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-pencil right-spacer"></i>Edit Search Results
+		</ion-card-header>
+		<ion-card-content>
+			<div class="wrapper">
+				<div class="item-label">Id:</div>
+				<div class="item-content">{{dailyContentResult?.Id}}</div>
+				<div class="item-label">Month:</div>
+				<div class="item-content">{{dailyContentResult?.Month}}</div>
+				<div class="item-label">Day:</div>
+				<div class="item-content">{{dailyContentResult?.Day}}</div>
+				<div class="item-label">Hour:</div>
+				<div class="item-content">{{dailyContentResult?.Hour}}</div>
+				<div class="item-label">Minute:</div>
+				<div class="item-content">{{dailyContentResult?.Minute}}</div>
+				<div class="item-label">Text:</div>
+				<div class="item-content">{{dailyContentResult?.Text}}</div>
+				<div class="item-label">Image:</div>
+				<div class="item-content"></div>
+			</div>
+			<div>
+				<button full ion-button color="secondary" (click)="updateDailyContent()">
+					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isUpdatingDailyContent></i>
+					{{isUpdatingDailyContent ? "Updating data..." : "Update"}}
+				</button>
+			</div>
+		</ion-card-content>
+	</ion-card>
+
+	<ion-card class="bottom-spacer" *ngIf="dailyContentResult === null && !isGettingDailyContent && hasRetrievedDailyContent">
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-info right-spacer"></i>No Results
+		</ion-card-header>
+		<ion-card-content>
+			<div>
+				<span>No data found.</span>
+			</div>
+		</ion-card-content>
+	</ion-card>
+
+	<footer>
+		<small>&copy; Copyright {{currentYear}} Caidson Software, Inc.</small>
+	</footer>
+</ion-content>

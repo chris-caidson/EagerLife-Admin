@@ -1,0 +1,28 @@
+page-daily-data-updates {
+    #results {
+        table-layout: fixed;
+        border-collapse: collapse;
+    }
+
+    #results td {
+        border: none;
+    }
+
+    .wrapper {
+        display: grid;
+        grid-template-columns: 50px, 1fr;
+        grid-gap: 10px;
+        grid-auto-rows: minmax(20px, auto);
+    }
+
+    .item-label {
+        color: #777;
+		margin-bottom: 10px;
+		grid-column: 1/2;
+		text-align: right;
+	}
+	
+	.item-content {
+		grid-column: 2/2;
+	}
+}

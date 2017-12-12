@@ -4,7 +4,8 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HomePage } from '../pages/home/home.page';
-import { DatabasePage } from '../pages/database/database.page';
+import { DailyDataSeedingPage } from '../pages/daily-data-seeding/daily-data-seeding.page';
+import { DailyDataUpdatesPage } from '../pages/daily-data-updates/daily-data-updates.page';
 import { AboutPage } from '../pages/about/about.page';
 
 @Component({
@@ -23,7 +24,8 @@ export class MyApp {
 
 		this.pages = [
 			{ title: 'Home', component: HomePage, icon: 'home' },
-			{ title: 'Database', component: DatabasePage, icon: 'database' },
+			{ title: 'Daily Data Updates', component: DailyDataUpdatesPage, icon: 'pencil' },
+			{ title: 'Daily Data Seeding', component: DailyDataSeedingPage, icon: 'calendar' },
 			{ title: 'About', component: AboutPage, icon: 'info-circle' }
 		];
 	}

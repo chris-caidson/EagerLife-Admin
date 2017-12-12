@@ -12,34 +12,140 @@
 <ion-content class="ion-content">
 	<ion-card class="bottom-spacer">
 		<ion-card-header class="card-header" color="light">
-			<i class="fa fa-calendar right-spacer"></i>Daily Data</ion-card-header>
+			<i class="fa fa-pencil right-spacer"></i>Daily Data Updates
+		</ion-card-header>
+		<ion-card-content>
+			<div>
+				<ion-item class="select-separator">
+					<ion-label>Content Type</ion-label>
+					<ion-select [(ngModel)]="contentType">
+						<ion-option value="DailyCalm">Daily Calm</ion-option>
+						<ion-option value="DailyMotivation">Daily Motivation</ion-option>
+						<ion-option value="QuoteOfTheDay">Quote of the Day</ion-option>
+						<ion-option value="VisionBoard">Vision Board</ion-option>
+					</ion-select>
+				</ion-item>
+				<ion-item class="select-separator">
+					<ion-label>Month</ion-label>
+					<ion-select [(ngModel)]="month">
+						<ion-option *ngFor="let m of months" value="{{m.Index}}">{{m.Name}}</ion-option>						
+					</ion-select>
+				</ion-item>
+				<ion-item>
+					<ion-label>Day</ion-label>
+					<ion-select [(ngModel)]="day">
+						<ion-option value='1'>1</ion-option>
+						<ion-option value='2'>2</ion-option>
+						<ion-option value='3'>3</ion-option>
+						<ion-option value='4'>4</ion-option>
+						<ion-option value='5'>5</ion-option>
+						<ion-option value='6'>6</ion-option>
+						<ion-option value='7'>7</ion-option>
+						<ion-option value='8'>8</ion-option>
+						<ion-option value='9'>9</ion-option>
+						<ion-option value='10'>10</ion-option>
+						<ion-option value='11'>11</ion-option>
+						<ion-option value='12'>12</ion-option>
+						<ion-option value='13'>13</ion-option>
+						<ion-option value='14'>14</ion-option>
+						<ion-option value='15'>15</ion-option>
+						<ion-option value='16'>16</ion-option>
+						<ion-option value='17'>17</ion-option>
+						<ion-option value='18'>18</ion-option>
+						<ion-option value='19'>19</ion-option>
+						<ion-option value='20'>20</ion-option>
+						<ion-option value='21'>21</ion-option>
+						<ion-option value='22'>22</ion-option>
+						<ion-option value='23'>23</ion-option>
+						<ion-option value='24'>24</ion-option>
+						<ion-option value='25'>25</ion-option>
+						<ion-option value='26'>26</ion-option>
+						<ion-option value='27'>27</ion-option>
+						<ion-option value='28'>28</ion-option>
+						<ion-option value='29'>29</ion-option>
+						<ion-option value='30' *ngIf="month !=2 ">30</ion-option>
+						<ion-option value='31' *ngIf="month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12">31</ion-option>
+					</ion-select>
+				</ion-item>
+				<div class="bottom-spacer">
+					<button full ion-button color="secondary" (click)="getDailyContent()" [disabled]=isGettingDailyContent>
+						<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isGettingDailyContent></i>
+						{{isGettingDailyContent ? "Getting data..." : "Submit"}}
+					</button>
+				</div>
+			</div>
+			<div *ngIf="dailyContentResult !== null && !isGettingDailyContent">
+				<table>
+					<thead>
+						<tr>
+							<th>Field</th>
+							<th>Value</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Id</td>
+							<td>{{dailyContentResult?.Id}}</td>
+						</tr>
+						<tr>
+							<td>Month</td>
+							<td>{{dailyContentResult?.Month}}</td>
+						</tr>
+						<tr>
+							<td>Day</td>
+							<td>{{dailyContentResult?.Day}}</td>
+						</tr>
+						<tr>
+							<td>Hour</td>
+							<td>{{dailyContentResult?.Hour}}</td>
+						</tr>
+						<tr>
+							<td>Minute</td>
+							<td>{{dailyContentResult?.Minute}}</td>
+						</tr>
+						<tr>
+							<td>Text</td>
+							<td>{{dailyContentResult?.Text}}</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div *ngIf="dailyContentResult === null && !isGettingDailyContent && hasRetrievedDailyContent">
+				<span>No data found.</span>
+			</div>
+		</ion-card-content>
+	</ion-card>
+
+	<ion-card class="bottom-spacer">
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-calendar right-spacer"></i>Daily Data Seeding</ion-card-header>
 		<ion-card-content>
 			<div class="bottom-spacer">
 				<span class="danger">
 					<i class="fa fa-exclamation-triangle right-spacer"></i>WARNING!!!</span>
-				<p>Clicking any of these buttons will clear ALL daily data of that type and then repopulate the database. Only do this if absolutely
-				necessary!</p>
+				<p>Clicking any of these buttons will reset ALL daily data of the type you have selected. Only do this if absolutely necessary!
+				</p>
 			</div>
 			<div>
-				<button full ion-button color="secondary" (click)="seedAllDailyCalmData()" [disabled]=isSeedingDailyCalm>
+				<button full ion-button color="secondary" (click)="seedDailyCalm()" [disabled]=isSeedingDailyCalm>
 					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingDailyCalm></i>
 					{{isSeedingDailyCalm ? "Seeding Daily Calm Data..." : "Seed ALL Daily Calm Data"}}
 				</button>
 			</div>
 			<div>
-				<button full ion-button color="secondary" (click)="seedAllDailyMotivationData()" [disabled]=isSeedingDailyMotivation>
+				<button full ion-button color="secondary" (click)="seedDailyMotivation()" [disabled]=isSeedingDailyMotivation>
 					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingDailyMotivation></i>
 					{{isSeedingDailyMotivation ? "Seeding Daily Motivation Data..." : "Seed ALL Daily Motivation Data"}}
 				</button>
 			</div>
 			<div>
-				<button full ion-button color="secondary" (click)="seedAllQuoteOfTheDayData()" [disabled]=isSeedingQuoteOfTheDay>
+				<button full ion-button color="secondary" (click)="seedQuoteOfTheDay()" [disabled]=isSeedingQuoteOfTheDay>
 					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingQuoteOfTheDay></i>
 					{{isSeedingQuoteOfTheDay ? "Seeding Quotes..." : "Seed ALL Quote of the Day Data"}}
 				</button>
 			</div>
 			<div>
-				<button full ion-button color="secondary" (click)="seedAllVisionBoardData()" [disabled]=isSeedingVisionBoard>
+				<button full ion-button color="secondary" (click)="seedVisionBoard()" [disabled]=isSeedingVisionBoard>
 					<i class="fa fa-refresh fa-spin right-spacer" [hidden]=!isSeedingVisionBoard></i>
 					{{isSeedingVisionBoard ? "Seeding Vision Board Data..." : "Seed ALL Vision Board Data"}}
 				</button>

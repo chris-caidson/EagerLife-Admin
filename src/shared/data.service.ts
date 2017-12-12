@@ -11,68 +11,69 @@ import { firestore } from 'firebase/app';
 @Injectable()
 export class DataService {
 
-	private batchSize: number = 100;
+	constructor(private http: Http, private afs: AngularFirestore) { }
 
-	constructor(private http: Http, private afs: AngularFirestore) {
+	public getDailyData(contentType: string, month: number, day: number): Promise<DailyItem> {
+		// firestore()
+		// 	.collection(contentType)
+		// 	.where("Month", "==", +month)
+		// 	.where("Day", "==", +day)
+		// 	.get()
+		// 	.then(querySnapshot => {
+		// 		if (querySnapshot.size > 0) {
+		// 			return querySnapshot.docs[0].data() as DailyItem;
+		// 		}
+		// 		else {
+		// 			return null;
+		// 		}
+		// 	})
+		// 	.catch(error => console.log(error));
 
+		// return null;
+
+		return new Promise((resolve, reject) => {
+			firestore()
+				.collection(contentType)
+				.where("Month", "==", +month)
+				.where("Day", "==", +day)
+				.get()
+				.then(snapshot => {
+					resolve(snapshot.size > 0 ? snapshot.docs[0].data() as DailyItem : null)
+				})
+				.catch(error => reject(error));
+		});
 	}
 
-	public seedAllDailyCalmData(callback: Function) {
-		this.deleteCollection('DailyCalm', () => this.seedDailyData('assets/data/daily-calm.json', 'DailyCalm', callback));
+	public seedDailyCalm(): Promise<void> {
+		return this.seedDailyData('DailyCalm', 'assets/data/daily-calm.json');
 	}
 
-	public seedAllDailyMotivationData(callback: Function) {
-		this.deleteCollection('DailyMotivation', () => this.seedDailyData('assets/data/daily-motivation.json', 'DailyMotivation', callback));
+	public seedDailyMotivation(): Promise<void> {
+		return this.seedDailyData('DailyMotivation', 'assets/data/daily-motivation.json');
 	}
 
-	public seedAllQuoteOfTheDayData(callback: Function) {
-		this.deleteCollection('QuoteOfTheDay', () => this.seedDailyData('assets/data/quote-of-the-day.json', 'QuoteOfTheDay', callback));
+	public seedQuoteOfTheDay(): Promise<void> {
+		return this.seedDailyData('QuoteOfTheDay', 'assets/data/quote-of-the-day.json');
 	}
 
-	public seedAllVisionBoardData(callback: Function) {
-		this.deleteCollection('VisionBoard', () => this.seedDailyData('assets/data/vision-board.json', 'VisionBoard', callback));
+	public seedVisionBoard(): Promise<void> {
+		return this.seedDailyData('VisionBoard', 'assets/data/vision-board.json');
 	}
 
-	private seedDailyData(jsonFile: string, collectionName: string, callback: Function) {
-		this.http.get(jsonFile)
-			.map(response => response.json())
-			.subscribe(
-			data => {
-				for (let item of data) {
-					console.log('Creating ' + collectionName + ' document with Id = ' + item.Id + '...');
-					firestore().collection(collectionName).doc(item.Id).set(item);
-				}
-			},
-			error => {
-				console.log(error);
-			},
-			() => {
-				callback();
-			});
-	}
-
-	private deleteCollection(collectionName: string, callback: Function) {
-		firestore().collection(collectionName).get()
-			.then(fullSnapshot => {
-				if (!fullSnapshot || fullSnapshot.size == 0) {
-					console.log('Finished deleting the ' + collectionName + ' collection.');
-					callback();
-					return;
-				}
-
-				firestore().collection(collectionName).orderBy("Id").limit(this.batchSize).get()
-					.then(snapshot => {
-						var batch = firestore().batch();
-
-						snapshot.docs.forEach(function (doc) {
-							console.log('Deleting ' + collectionName + ' document with Id = ' + doc.id + '...');
-							batch.delete(doc.ref);
-						})
-
-						batch.commit();
-						this.deleteCollection(collectionName, callback)
-					}, reason => console.log("Inner failure reason: " + reason));
-			},
-			reason => console.log("Outer failure reason: " + reason));
+	private seedDailyData(collectionName: string, jsonFile: string): Promise<void> {
+		return new Promise((resolve, reject) => {
+			this.http
+				.get(jsonFile)
+				.map(response => response.json())
+				.subscribe(
+				data => {
+					for (let item of data) {
+						console.log(`Creating ${collectionName} document with Id = ${item.Id}...`);
+						firestore().collection(collectionName).doc(item.Id).set(item);
+					}
+				},
+				error => { reject(error); },
+				() => { resolve(); })
+		});
 	}
 }
