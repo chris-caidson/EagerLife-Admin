@@ -4,20 +4,19 @@ import { Observable } from 'rxjs/Observable';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
-import * as firebase from 'firebase/app'; // for typings
-import { FirebaseApp } from 'angularfire2'; // for methods
+import { FirebaseApp } from 'angularfire2';
+import 'firebase/storage';
 
 import { DailyItem } from '../model/daily-item.interface';
-import { firestore } from 'firebase/app';
 
 @Injectable()
 export class DataService {
 
-	constructor(private http: Http, private afs: AngularFirestore, private app: FirebaseApp) { }
+	constructor(private http: Http, private app: FirebaseApp) { }
 
 	public getDailyData(contentType: string, month: number, day: number): Promise<DailyItem> {
 		return new Promise((resolve, reject) => {
-			firestore()
+			this.app.firestore()
 				.collection(contentType)
 				.where("Month", "==", +month)
 				.where("Day", "==", +day)
@@ -31,7 +30,7 @@ export class DataService {
 
 	public updateDailyData(contentType: string, dailyItem: DailyItem): Promise<DailyItem> {
 		return new Promise((resolve, reject) => {
-			firestore()
+			this.app.firestore()
 				.collection(contentType)
 				.doc(dailyItem.Id)
 				.update({
@@ -48,26 +47,15 @@ export class DataService {
 
 	public getImage(contentType: string, imageId: string): Promise<string> {
 		return new Promise((resolve, reject) => {
-			var storagePath: string = '';
-
-			switch (contentType) {
-				case 'DailyCalm': storagePath = 'daily-calm'; break;
-				case 'DailyMotivation': storagePath = 'daily-motivation'; break;
-				case 'QuoteOfTheDay': storagePath = 'quote-of-the-day'; break;
-				case 'VisionBoard': storagePath = 'vision-board'; break;
-			}
-
-			const storageRef = this.app.storage().ref();
-			var path = `${storagePath}/${imageId}.jpg`;
-			var img = storageRef.child(path);
+			var img = this.app.storage().ref().child(`${contentType}/${imageId}.jpg`);
 
 			try {
 				img.getDownloadURL()
 					.then(value => resolve(value))
 					.catch(error => reject(error));
 			}
-			catch (error){
-				resolve(null);	
+			catch (error) {
+				resolve(null);
 			}
 		});
 	}
@@ -97,7 +85,7 @@ export class DataService {
 				data => {
 					for (let item of data) {
 						console.log(`Creating ${collectionName} document with Id = ${item.Id}...`);
-						firestore().collection(collectionName).doc(item.Id).set(item);
+						this.app.firestore().collection(collectionName).doc(item.Id).set(item);
 					}
 				},
 				error => { reject(error); },

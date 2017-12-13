@@ -1,0 +1,36 @@
+<ion-header>
+	<ion-navbar>
+		<button ion-button menuToggle>
+			<ion-icon name="menu"></ion-icon>
+		</button>
+		<ion-title>
+			<i class="fa fa-calendar-check-o primary right-spacer" item-start></i>Weekly Data Updates
+		</ion-title>
+	</ion-navbar>
+</ion-header>
+
+<ion-content class="ion-content">
+	<ion-card class="bottom-spacer">
+		<ion-card-header class="card-header" color="light">
+			<i class="fa fa-search right-spacer"></i>Content Search
+		</ion-card-header>
+		<ion-card-content>
+			<div>
+				<ion-item class="select-separator">
+					<ion-label>Content Type</ion-label>
+					<ion-select [(ngModel)]="contentType">
+						<ion-option value="TheWeekAhead">The Week Ahead</ion-option>
+						<ion-option value="MotivationalMusic">Motivational Music</ion-option>
+						<ion-option value="WordOfTheWeek">Word of the Week</ion-option>
+						<ion-option value="FulfillingFilm">Fulfilling Film</ion-option>
+						<ion-option value="WeekendWindDown">Weekend Wind-down</ion-option>
+					</ion-select>
+				</ion-item>
+			</div>
+		</ion-card-content>
+	</ion-card>
+
+	<footer>
+		<small>&copy; Copyright {{currentYear}} Caidson Software, Inc.</small>
+	</footer>
+</ion-content>

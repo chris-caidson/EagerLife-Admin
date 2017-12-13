@@ -1,0 +1,1927 @@
+[
+	{
+		"Id": "001",
+		"Word": "Absolutely",
+		"Message": "'With no qualification, restriction, or limitation'... are your dreams and beliefs meeting this criteria? If they're not, then perhaps it's time to remove the restrictions, and dream bigger!"
+	},
+	{
+		"Id": "002",
+		"Word": "Abundant",
+		"Message": "It's not until you feel you have an abundance of wealth, health, and prosperity that you'll receive even more wealth, health, and prosperity!"
+	},
+	{
+		"Id": "003",
+		"Word": "Accept",
+		"Message": "Do you presently accept your life as it is? Is it time to break through barriers that are preventing you from being your best self and living the life of your dreams? It's never too late!"
+	},
+	{
+		"Id": "004",
+		"Word": "Acclaim",
+		"Message": ""
+	},
+	{
+		"Id": "005",
+		"Word": "Accomplishment",
+		"Message": "Be proud of your accomplishments! However, don't rest on your laurels; keep accomplishing more and more, doing bigger and better things!"
+	},
+	{
+		"Id": "006",
+		"Word": "Achievement",
+		"Message": ""
+	},
+	{
+		"Id": "007",
+		"Word": "Action",
+		"Message": "It's one thing to have numerous wonderful thoughts and plans. However, until they're put into action, those thoughts and plans aren't able to be realized. Plan ahead, and then take action!"
+	},
+	{
+		"Id": "008",
+		"Word": "Active",
+		"Message": ""
+	},
+	{
+		"Id": "009",
+		"Word": "Activist",
+		"Message": ""
+	},
+	{
+		"Id": "010",
+		"Word": "Acumen",
+		"Message": ""
+	},
+	{
+		"Id": "011",
+		"Word": "Adjust",
+		"Message": ""
+	},
+	{
+		"Id": "012",
+		"Word": "Admire",
+		"Message": ""
+	},
+	{
+		"Id": "013",
+		"Word": "Adopt",
+		"Message": ""
+	},
+	{
+		"Id": "014",
+		"Word": "Adorable",
+		"Message": ""
+	},
+	{
+		"Id": "015",
+		"Word": "Adore",
+		"Message": ""
+	},
+	{
+		"Id": "016",
+		"Word": "Adventure",
+		"Message": ""
+	},
+	{
+		"Id": "017",
+		"Word": "Affirmation",
+		"Message": ""
+	},
+	{
+		"Id": "018",
+		"Word": "Affirmative",
+		"Message": ""
+	},
+	{
+		"Id": "019",
+		"Word": "Affluent",
+		"Message": ""
+	},
+	{
+		"Id": "020",
+		"Word": "Agree",
+		"Message": ""
+	},
+	{
+		"Id": "021",
+		"Word": "Airy",
+		"Message": ""
+	},
+	{
+		"Id": "022",
+		"Word": "Alive",
+		"Message": "There is only so much of the mundane that any human can tolerate. Life is an adventurous journey - take the time to do the things that make you feel alive!"
+	},
+	{
+		"Id": "023",
+		"Word": "Alliance",
+		"Message": ""
+	},
+	{
+		"Id": "024",
+		"Word": "Alter",
+		"Message": "Until I altered my way of thinking, I was a pessimistic, negative person. We all have the ability to alter our thinking patterns for the better. If you find yourself having negative thoughts, you can immediately switch your mind to thinking about something else!"
+	},
+	{
+		"Id": "025",
+		"Word": "Amaze",
+		"Message": ""
+	},
+	{
+		"Id": "026",
+		"Word": "Amity",
+		"Message": ""
+	},
+	{
+		"Id": "027",
+		"Word": "Animated",
+		"Message": ""
+	},
+	{
+		"Id": "028",
+		"Word": "Answer",
+		"Message": ""
+	},
+	{
+		"Id": "029",
+		"Word": "Appreciation",
+		"Message": "Express appreciation often, even for the little things. When you do this, you'll be given more and more things for which to express appreciation."
+	},
+	{
+		"Id": "030",
+		"Word": "Approve",
+		"Message": "Do you approve of your current situation? Do you approve of the thoughts with which you give the most attention? If you do not, then it's time to start working to fix that. Once you do, you'll feel far better about yourself and your life!"
+	},
+	{
+		"Id": "031",
+		"Word": "Aptitude",
+		"Message": ""
+	},
+	{
+		"Id": "032",
+		"Word": "Artistic",
+		"Message": ""
+	},
+	{
+		"Id": "033",
+		"Word": "Assertive",
+		"Message": ""
+	},
+	{
+		"Id": "034",
+		"Word": "Astonish",
+		"Message": ""
+	},
+	{
+		"Id": "035",
+		"Word": "Astounding",
+		"Message": ""
+	},
+	{
+		"Id": "036",
+		"Word": "Astute",
+		"Message": ""
+	},
+	{
+		"Id": "037",
+		"Word": "Attractive",
+		"Message": ""
+	},
+	{
+		"Id": "038",
+		"Word": "Authentic",
+		"Message": "You must be yourself. People can see right through someone who is not authentic. It takes far less effort to be genuine than it does to try to be someone you're not. If you're not yet who you want to be, begin to work toward becoming that person."
+	},
+	{
+		"Id": "039",
+		"Word": "Basic",
+		"Message": ""
+	},
+	{
+		"Id": "040",
+		"Word": "Beam",
+		"Message": ""
+	},
+	{
+		"Id": "041",
+		"Word": "Beautiful",
+		"Message": ""
+	},
+	{
+		"Id": "042",
+		"Word": "Believe",
+		"Message": "Believing is without a doubt the single most critical element to achieving success. You simply MUST believe that you will be a success in order to become successful."
+	},
+	{
+		"Id": "043",
+		"Word": "Benefactor",
+		"Message": ""
+	},
+	{
+		"Id": "044",
+		"Word": "Benefit",
+		"Message": ""
+	},
+	{
+		"Id": "045",
+		"Word": "Bighearted",
+		"Message": ""
+	},
+	{
+		"Id": "046",
+		"Word": "Blessed",
+		"Message": "We are all blessed in some way or another. The mere fact that we exist as humans is a blessing to each and every one of us. Think for a moment how powerful it is simply to be human! We have the ability to reason, to communicate in ways no other living creature can, and we can shape our world in whatever ways we choose. "
+	},
+	{
+		"Id": "047",
+		"Word": "Bliss",
+		"Message": ""
+	},
+	{
+		"Id": "048",
+		"Word": "Bloom",
+		"Message": ""
+	},
+	{
+		"Id": "049",
+		"Word": "Bountiful",
+		"Message": ""
+	},
+	{
+		"Id": "050",
+		"Word": "Bounty",
+		"Message": ""
+	},
+	{
+		"Id": "051",
+		"Word": "Brave",
+		"Message": ""
+	},
+	{
+		"Id": "052",
+		"Word": "Bright",
+		"Message": ""
+	},
+	{
+		"Id": "053",
+		"Word": "Brilliant",
+		"Message": ""
+	},
+	{
+		"Id": "054",
+		"Word": "Bubbly",
+		"Message": ""
+	},
+	{
+		"Id": "055",
+		"Word": "Bunch",
+		"Message": ""
+	},
+	{
+		"Id": "056",
+		"Word": "Burgeon",
+		"Message": ""
+	},
+	{
+		"Id": "057",
+		"Word": "Calm",
+		"Message": "Do you approach life in a cool, calm, and confident way? Or do you find yourself strugging through a world of chaos? If it's the latter, consider slowing down, collecting your thoughts, surveying your situation, taking some deep breaths, and realizing everything is going to be just fine. Really. Truly. You just have to believe."
+	},
+	{
+		"Id": "058",
+		"Word": "Can",
+		"Message": ""
+	},
+	{
+		"Id": "059",
+		"Word": "Care",
+		"Message": ""
+	},
+	{
+		"Id": "060",
+		"Word": "Celebrate",
+		"Message": ""
+	},
+	{
+		"Id": "061",
+		"Word": "Certain",
+		"Message": ""
+	},
+	{
+		"Id": "062",
+		"Word": "Change",
+		"Message": "Change can be scary. However, if we're not living the life we truly want to live, then change is necessary. As soon as you learn to eliminate fear, change becomes exciting!"
+	},
+	{
+		"Id": "063",
+		"Word": "Character",
+		"Message": ""
+	},
+	{
+		"Id": "064",
+		"Word": "Charitable",
+		"Message": "Being charitable is a virtue. It's a wonderful feeling to be able to provide for those in need, in some way, shape, or form. If you're currently not charitable, perhaps now is the time to change that. Find a charity that you'd be honored to support, and help out in whatever way you can."
+	},
+	{
+		"Id": "065",
+		"Word": "Charming",
+		"Message": ""
+	},
+	{
+		"Id": "066",
+		"Word": "Cheer",
+		"Message": ""
+	},
+	{
+		"Id": "067",
+		"Word": "Cherish",
+		"Message": "What are some of the things you cherish and why? For me, it's my wife and kids, and my family, all of which require no explanation. I also cherish the location in which I live; I am blessed to live in a peaceful area where I know my children can grow up safely."
+	},
+	{
+		"Id": "068",
+		"Word": "Choose",
+		"Message": ""
+	},
+	{
+		"Id": "069",
+		"Word": "Clarity",
+		"Message": "Do you have a well-defined set of goals? Is your path to success clear? Before we can begin working toward our goals, we must first find clarity. Set aside time to focus on exactly what it is you want to achieve before blindly jumping in."
+	},
+	{
+		"Id": "070",
+		"Word": "Classy",
+		"Message": ""
+	},
+	{
+		"Id": "071",
+		"Word": "Clean",
+		"Message": ""
+	},
+	{
+		"Id": "072",
+		"Word": "Clever",
+		"Message": ""
+	},
+	{
+		"Id": "073",
+		"Word": "Closeness",
+		"Message": ""
+	},
+	{
+		"Id": "074",
+		"Word": "Commend",
+		"Message": ""
+	},
+	{
+		"Id": "075",
+		"Word": "Companionship",
+		"Message": ""
+	},
+	{
+		"Id": "076",
+		"Word": "Complete",
+		"Message": ""
+	},
+	{
+		"Id": "077",
+		"Word": "Comradeship",
+		"Message": ""
+	},
+	{
+		"Id": "078",
+		"Word": "Confidence",
+		"Message": "Demonstrating confidence can be a major struggle for many of us (I severely lacked confidence when I was younger). However, deep down, we all have at least a tiny bit of self-assurance in our abilities. We need to nurture this and allow it to grow. Have faith in yourself. Believe in yourself. KNOW you are an amazing person, and your confidence will resonate clearly."
+	},
+	{
+		"Id": "079",
+		"Word": "Connect",
+		"Message": "How do you connect with others? Are you an initiator, one who goes out of your way to introduce yourself and begin forming a bond right away? Are you someone who would prefer others to connect with you first? Either way, these connections, bonds, and friendships are what makes the world go 'round! Forming new connections can lead to amazing life-long relationships!"
+	},
+	{
+		"Id": "080",
+		"Word": "Consistency",
+		"Message": "Consistency is the key. Always be practice consistency when working toward your goals. Continually do a little bit at a time, and soon enough, you'll have realized that you've done a significant amount of work!"
+	},
+	{
+		"Id": "081",
+		"Word": "Constant",
+		"Message": ""
+	},
+	{
+		"Id": "082",
+		"Word": "Content",
+		"Message": ""
+	},
+	{
+		"Id": "083",
+		"Word": "Conviction",
+		"Message": "Interesting word, 'conviction.' Its double-meanings are at quite opposite ends of a 'positive-negative' spectrum. I certainly prefer to focus on the second definition: 'a firmly held belief or opinion.' You must have conviction in your ability to become a huge success. Be unwavering and become unstoppable!"
+	},
+	{
+		"Id": "084",
+		"Word": "Copious",
+		"Message": ""
+	},
+	{
+		"Id": "085",
+		"Word": "Couple",
+		"Message": ""
+	},
+	{
+		"Id": "086",
+		"Word": "Courageous",
+		"Message": "Oftentimes, we must be courageous to push ourselves to reach our goals. Many people may object or even reject what you want to accomplish. Do not let that stand in your way. You may even possess some doubts in your own mind. Ignore those, and they will not stand in your way either."
+	},
+	{
+		"Id": "087",
+		"Word": "Create",
+		"Message": ""
+	},
+	{
+		"Id": "088",
+		"Word": "Creative",
+		"Message": ""
+	},
+	{
+		"Id": "089",
+		"Word": "Cuddle",
+		"Message": ""
+	},
+	{
+		"Id": "090",
+		"Word": "Cultivate",
+		"Message": "We must cultivate positive thoughts. Nurture them and allow them to grow. Positivity is the bountiful harvest we're attempting to grow. Negativity is the weeds that try to get in the way. Feed and water the positivity, and the negativity soon will have no place in your garden."
+	},
+	{
+		"Id": "091",
+		"Word": "Cure",
+		"Message": ""
+	},
+	{
+		"Id": "092",
+		"Word": "Curious",
+		"Message": ""
+	},
+	{
+		"Id": "093",
+		"Word": "Cute",
+		"Message": ""
+	},
+	{
+		"Id": "094",
+		"Word": "Dazzling",
+		"Message": ""
+	},
+	{
+		"Id": "095",
+		"Word": "Dedication",
+		"Message": ""
+	},
+	{
+		"Id": "096",
+		"Word": "Delight",
+		"Message": ""
+	},
+	{
+		"Id": "097",
+		"Word": "Determination",
+		"Message": "You must be determined to succeed. You can let nothing stand in your way; all obstacles must be overcome. Stay focused on the goal, and use your determination to get to it!"
+	},
+	{
+		"Id": "098",
+		"Word": "Direct",
+		"Message": ""
+	},
+	{
+		"Id": "099",
+		"Word": "Discover",
+		"Message": ""
+	},
+	{
+		"Id": "100",
+		"Word": "Distinguished",
+		"Message": ""
+	},
+	{
+		"Id": "101",
+		"Word": "Divine",
+		"Message": ""
+	},
+	{
+		"Id": "102",
+		"Word": "Donate",
+		"Message": "Do you donate to anything, such as charities or good-will? When you make a donation, you're likely helping someone who may be in great need. Plus, the act of giving feels good. It's a win-win! If you have specific charities you support, please share!"
+	},
+	{
+		"Id": "103",
+		"Word": "Drive",
+		"Message": "Do you possess the drive you need in order to get yourself to the next level in your life? Those who are driven to succeed are the ones who WILL succeed."
+	},
+	{
+		"Id": "104",
+		"Word": "Eager",
+		"Message": "The very reason you should be in this Facebook group, is because you're eager to become a bigger, better, stronger, more successful version of yourself than you are today. I am here to help you turn that concept into a reality!"
+	},
+	{
+		"Id": "105",
+		"Word": "Earnest",
+		"Message": ""
+	},
+	{
+		"Id": "106",
+		"Word": "Easy",
+		"Message": ""
+	},
+	{
+		"Id": "107",
+		"Word": "Ecstasy",
+		"Message": ""
+	},
+	{
+		"Id": "108",
+		"Word": "Effervescent",
+		"Message": ""
+	},
+	{
+		"Id": "109",
+		"Word": "Efficient",
+		"Message": ""
+	},
+	{
+		"Id": "110",
+		"Word": "Effortless",
+		"Message": "Is there anything you find to be effortless that other people might struggle with? You can use such skills to separate yourself and stand apart from others. You might not even realize how much talent you possess!"
+	},
+	{
+		"Id": "111",
+		"Word": "Electrifying",
+		"Message": ""
+	},
+	{
+		"Id": "112",
+		"Word": "Elegance",
+		"Message": ""
+	},
+	{
+		"Id": "113",
+		"Word": "Elegant",
+		"Message": ""
+	},
+	{
+		"Id": "114",
+		"Word": "Embrace",
+		"Message": ""
+	},
+	{
+		"Id": "115",
+		"Word": "Encompass",
+		"Message": ""
+	},
+	{
+		"Id": "116",
+		"Word": "Encourage",
+		"Message": "Offering encouragement to others is a wonderful thing. You'll be appreciated for your willingness to help and support. Receiving encouragement is likewise a wonderful thing. A few encouraging words may be all it takes to propel someone forward and to prevent him or her from quitting!"
+	},
+	{
+		"Id": "117",
+		"Word": "Endorse",
+		"Message": ""
+	},
+	{
+		"Id": "118",
+		"Word": "Energize",
+		"Message": ""
+	},
+	{
+		"Id": "119",
+		"Word": "Energy",
+		"Message": ""
+	},
+	{
+		"Id": "120",
+		"Word": "Enjoy",
+		"Message": "Do you enjoy your life as it is presently constructed? Focus on the things that you DO enjoy, and work to incorporate more enjoyable things in your day-to-day. Slowly and steadily, you'll find yourself living a life of joy!"
+	},
+	{
+		"Id": "121",
+		"Word": "Enormous",
+		"Message": ""
+	},
+	{
+		"Id": "122",
+		"Word": "Enthuse",
+		"Message": ""
+	},
+	{
+		"Id": "123",
+		"Word": "Enthusiastic",
+		"Message": "It can be difficult to start something new if you're not enthusiastic about it. No one knows you better than yourself. What things spark enthusiasm within YOU? It may seem silly, but I seem to always be enthusiastic when it comes to food! I love going out to eat, and I have been expanding my horizons lately, wanting to try new things. "
+	},
+	{
+		"Id": "124",
+		"Word": "Entirely",
+		"Message": ""
+	},
+	{
+		"Id": "125",
+		"Word": "Essence",
+		"Message": ""
+	},
+	{
+		"Id": "126",
+		"Word": "Established",
+		"Message": ""
+	},
+	{
+		"Id": "127",
+		"Word": "Esteem",
+		"Message": ""
+	},
+	{
+		"Id": "128",
+		"Word": "Everyday",
+		"Message": ""
+	},
+	{
+		"Id": "129",
+		"Word": "Exalt",
+		"Message": ""
+	},
+	{
+		"Id": "130",
+		"Word": "Excited",
+		"Message": ""
+	},
+	{
+		"Id": "131",
+		"Word": "Exciting",
+		"Message": ""
+	},
+	{
+		"Id": "132",
+		"Word": "Exhilarating",
+		"Message": ""
+	},
+	{
+		"Id": "133",
+		"Word": "Expand",
+		"Message": ""
+	},
+	{
+		"Id": "134",
+		"Word": "Explore",
+		"Message": ""
+	},
+	{
+		"Id": "135",
+		"Word": "Express",
+		"Message": ""
+	},
+	{
+		"Id": "136",
+		"Word": "Exquisite",
+		"Message": ""
+	},
+	{
+		"Id": "137",
+		"Word": "Exultant",
+		"Message": ""
+	},
+	{
+		"Id": "138",
+		"Word": "Faith",
+		"Message": "You must have faith in what you're doing, and you must have faith that you WILL be successful! Think and act as it you already ARE successful, and your thoughts will yield the results you're after."
+	},
+	{
+		"Id": "139",
+		"Word": "Familiar",
+		"Message": ""
+	},
+	{
+		"Id": "140",
+		"Word": "Family",
+		"Message": ""
+	},
+	{
+		"Id": "141",
+		"Word": "Famous",
+		"Message": ""
+	},
+	{
+		"Id": "142",
+		"Word": "Feat",
+		"Message": ""
+	},
+	{
+		"Id": "143",
+		"Word": "Fit",
+		"Message": ""
+	},
+	{
+		"Id": "144",
+		"Word": "Flourish",
+		"Message": ""
+	},
+	{
+		"Id": "145",
+		"Word": "Forgive",
+		"Message": "Sometimes we hold grudges and have hatred toward others. As the brilliant David T.S. Wood once said, 'Holding onto hate is like taking a poison pill and expecting the other guy to die.' Learn to forgive, and your life will be far more pleasant."
+	},
+	{
+		"Id": "146",
+		"Word": "Fortunate",
+		"Message": ""
+	},
+	{
+		"Id": "147",
+		"Word": "Fortune",
+		"Message": ""
+	},
+	{
+		"Id": "148",
+		"Word": "Freedom",
+		"Message": "Are there certain freedoms that you seek? Time freedom is something the vast majority of the workforce seeks. Believe that you can remove the shackles that bind you in your life, and soon thereafter events will take place allowing you to experience the freedom you've sought."
+	},
+	{
+		"Id": "149",
+		"Word": "Fresh",
+		"Message": ""
+	},
+	{
+		"Id": "150",
+		"Word": "Friendship",
+		"Message": ""
+	},
+	{
+		"Id": "151",
+		"Word": "Full",
+		"Message": ""
+	},
+	{
+		"Id": "152",
+		"Word": "Fun",
+		"Message": "All too often, many of us seem to forget that life should be fun! Do you take any time at all to allow yourself to have some fun? No one wants to be bogged down in utter seriousness 24x7. Even if it's for just a few minutes a day, do something fun!"
+	},
+	{
+		"Id": "153",
+		"Word": "Funny",
+		"Message": ""
+	},
+	{
+		"Id": "154",
+		"Word": "Gather",
+		"Message": ""
+	},
+	{
+		"Id": "155",
+		"Word": "Generous",
+		"Message": ""
+	},
+	{
+		"Id": "156",
+		"Word": "Genius",
+		"Message": ""
+	},
+	{
+		"Id": "157",
+		"Word": "Genuine",
+		"Message": ""
+	},
+	{
+		"Id": "158",
+		"Word": "Give",
+		"Message": ""
+	},
+	{
+		"Id": "159",
+		"Word": "Glad",
+		"Message": ""
+	},
+	{
+		"Id": "160",
+		"Word": "Glow",
+		"Message": ""
+	},
+	{
+		"Id": "161",
+		"Word": "Good",
+		"Message": ""
+	},
+	{
+		"Id": "162",
+		"Word": "Gorgeous",
+		"Message": ""
+	},
+	{
+		"Id": "163",
+		"Word": "Grace",
+		"Message": ""
+	},
+	{
+		"Id": "164",
+		"Word": "Graceful",
+		"Message": ""
+	},
+	{
+		"Id": "165",
+		"Word": "Gratitude",
+		"Message": ""
+	},
+	{
+		"Id": "166",
+		"Word": "Green",
+		"Message": ""
+	},
+	{
+		"Id": "167",
+		"Word": "Grin",
+		"Message": ""
+	},
+	{
+		"Id": "168",
+		"Word": "Group",
+		"Message": ""
+	},
+	{
+		"Id": "169",
+		"Word": "Grow",
+		"Message": "We all should desire growth, mentally and spiritually, if not always physically. EagerLife is all about growing your mind - allow yourself to think outside the box, believe that the world is a magical place, where your dreams can literally become your reality."
+	},
+	{
+		"Id": "170",
+		"Word": "Handsome",
+		"Message": ""
+	},
+	{
+		"Id": "171",
+		"Word": "Happy",
+		"Message": ""
+	},
+	{
+		"Id": "172",
+		"Word": "Harmony",
+		"Message": ""
+	},
+	{
+		"Id": "173",
+		"Word": "Heal",
+		"Message": ""
+	},
+	{
+		"Id": "174",
+		"Word": "Healing",
+		"Message": ""
+	},
+	{
+		"Id": "175",
+		"Word": "Healthful",
+		"Message": ""
+	},
+	{
+		"Id": "176",
+		"Word": "Healthy",
+		"Message": ""
+	},
+	{
+		"Id": "177",
+		"Word": "Heart",
+		"Message": ""
+	},
+	{
+		"Id": "178",
+		"Word": "Hearty",
+		"Message": ""
+	},
+	{
+		"Id": "179",
+		"Word": "Heavenly",
+		"Message": ""
+	},
+	{
+		"Id": "180",
+		"Word": "Helpful",
+		"Message": ""
+	},
+	{
+		"Id": "181",
+		"Word": "Here",
+		"Message": ""
+	},
+	{
+		"Id": "182",
+		"Word": "Hold",
+		"Message": ""
+	},
+	{
+		"Id": "183",
+		"Word": "Holy",
+		"Message": ""
+	},
+	{
+		"Id": "184",
+		"Word": "Honest",
+		"Message": ""
+	},
+	{
+		"Id": "185",
+		"Word": "Honor",
+		"Message": ""
+	},
+	{
+		"Id": "186",
+		"Word": "Hug",
+		"Message": ""
+	},
+	{
+		"Id": "187",
+		"Word": "Idea",
+		"Message": "Realize this: as Napoleon Hill states in 'Think and Grow Rich', all great fortunes started with a single idea. We are all capable of formulating ideas. You probably have an absolutely brilliant one, or maybe more than one, just waiting to be brought into fruition. What's stopping you from taking action? Go for it!"
+	},
+	{
+		"Id": "188",
+		"Word": "Ideal",
+		"Message": ""
+	},
+	{
+		"Id": "189",
+		"Word": "Imaginative",
+		"Message": ""
+	},
+	{
+		"Id": "190",
+		"Word": "Increase",
+		"Message": ""
+	},
+	{
+		"Id": "191",
+		"Word": "Incredible",
+		"Message": ""
+	},
+	{
+		"Id": "192",
+		"Word": "Independent",
+		"Message": ""
+	},
+	{
+		"Id": "193",
+		"Word": "Ingenious",
+		"Message": ""
+	},
+	{
+		"Id": "194",
+		"Word": "Innate",
+		"Message": ""
+	},
+	{
+		"Id": "195",
+		"Word": "Innovate",
+		"Message": ""
+	},
+	{
+		"Id": "196",
+		"Word": "Inspire",
+		"Message": "Do you inspire others? Are you inspired by others? A tiny bit of inspiration can go an awfully long way. EagerLife wouldn't exist had I not been inspired, mostly by my amazing wife, to create it. A vast quantity of things in our world would never have been achieved without an inspirational spark."
+	},
+	{
+		"Id": "197",
+		"Word": "Instantaneous",
+		"Message": ""
+	},
+	{
+		"Id": "198",
+		"Word": "Instinct",
+		"Message": ""
+	},
+	{
+		"Id": "199",
+		"Word": "Intellectual",
+		"Message": ""
+	},
+	{
+		"Id": "200",
+		"Word": "Intelligence",
+		"Message": ""
+	},
+	{
+		"Id": "201",
+		"Word": "Intuitive",
+		"Message": ""
+	},
+	{
+		"Id": "202",
+		"Word": "Inventive",
+		"Message": ""
+	},
+	{
+		"Id": "203",
+		"Word": "Join",
+		"Message": ""
+	},
+	{
+		"Id": "204",
+		"Word": "Jovial",
+		"Message": ""
+	},
+	{
+		"Id": "205",
+		"Word": "Joy",
+		"Message": ""
+	},
+	{
+		"Id": "206",
+		"Word": "Jubilation",
+		"Message": ""
+	},
+	{
+		"Id": "207",
+		"Word": "Keen",
+		"Message": ""
+	},
+	{
+		"Id": "208",
+		"Word": "Key",
+		"Message": ""
+	},
+	{
+		"Id": "209",
+		"Word": "Kind",
+		"Message": ""
+	},
+	{
+		"Id": "210",
+		"Word": "Kiss",
+		"Message": ""
+	},
+	{
+		"Id": "211",
+		"Word": "Knowledge",
+		"Message": "Knowledge is, in fact, not power. You could know all there possibly is to know, and that knowledge would be utterly useless, unless it was applied in some manner. Applied knowledge, then, is powerful. Do not only acquire knowledge, but do something with it as well!"
+	},
+	{
+		"Id": "212",
+		"Word": "Laugh",
+		"Message": ""
+	},
+	{
+		"Id": "213",
+		"Word": "Leader",
+		"Message": ""
+	},
+	{
+		"Id": "214",
+		"Word": "Learn",
+		"Message": ""
+	},
+	{
+		"Id": "215",
+		"Word": "Legendary",
+		"Message": ""
+	},
+	{
+		"Id": "216",
+		"Word": "Let Go",
+		"Message": ""
+	},
+	{
+		"Id": "217",
+		"Word": "Light",
+		"Message": ""
+	},
+	{
+		"Id": "218",
+		"Word": "Lively",
+		"Message": ""
+	},
+	{
+		"Id": "219",
+		"Word": "Love",
+		"Message": ""
+	},
+	{
+		"Id": "220",
+		"Word": "Loveliness",
+		"Message": ""
+	},
+	{
+		"Id": "221",
+		"Word": "Lucidity",
+		"Message": ""
+	},
+	{
+		"Id": "222",
+		"Word": "Lucrative",
+		"Message": ""
+	},
+	{
+		"Id": "223",
+		"Word": "Luminous",
+		"Message": ""
+	},
+	{
+		"Id": "224",
+		"Word": "Maintain",
+		"Message": ""
+	},
+	{
+		"Id": "225",
+		"Word": "Marvelous",
+		"Message": ""
+	},
+	{
+		"Id": "226",
+		"Word": "Master",
+		"Message": ""
+	},
+	{
+		"Id": "227",
+		"Word": "Meaningful",
+		"Message": ""
+	},
+	{
+		"Id": "228",
+		"Word": "Meditate",
+		"Message": ""
+	},
+	{
+		"Id": "229",
+		"Word": "Mend",
+		"Message": ""
+	},
+	{
+		"Id": "230",
+		"Word": "Metamorphosis",
+		"Message": ""
+	},
+	{
+		"Id": "231",
+		"Word": "Mind-Blowing",
+		"Message": ""
+	},
+	{
+		"Id": "232",
+		"Word": "Miracle",
+		"Message": ""
+	},
+	{
+		"Id": "233",
+		"Word": "Mission",
+		"Message": ""
+	},
+	{
+		"Id": "234",
+		"Word": "Modify",
+		"Message": ""
+	},
+	{
+		"Id": "235",
+		"Word": "Motivate",
+		"Message": ""
+	},
+	{
+		"Id": "236",
+		"Word": "Moving",
+		"Message": ""
+	},
+	{
+		"Id": "237",
+		"Word": "Natural",
+		"Message": ""
+	},
+	{
+		"Id": "238",
+		"Word": "Nature",
+		"Message": ""
+	},
+	{
+		"Id": "239",
+		"Word": "Nourish",
+		"Message": ""
+	},
+	{
+		"Id": "240",
+		"Word": "Novel",
+		"Message": ""
+	},
+	{
+		"Id": "241",
+		"Word": "Now",
+		"Message": ""
+	},
+	{
+		"Id": "242",
+		"Word": "Nurture",
+		"Message": ""
+	},
+	{
+		"Id": "243",
+		"Word": "Nutritious",
+		"Message": ""
+	},
+	{
+		"Id": "244",
+		"Word": "Open",
+		"Message": ""
+	},
+	{
+		"Id": "245",
+		"Word": "Openhanded",
+		"Message": ""
+	},
+	{
+		"Id": "246",
+		"Word": "Open-minded",
+		"Message": ""
+	},
+	{
+		"Id": "247",
+		"Word": "Optimistic",
+		"Message": ""
+	},
+	{
+		"Id": "248",
+		"Word": "Paradise",
+		"Message": ""
+	},
+	{
+		"Id": "249",
+		"Word": "Party",
+		"Message": ""
+	},
+	{
+		"Id": "250",
+		"Word": "Patience",
+		"Message": "As they say, 'Patience is a virtue.' We all must practice patience in our lives. Rome wasn't built in a day. Take your time, be consistent, and work patiently toward your goals."
+	},
+	{
+		"Id": "251",
+		"Word": "Peace",
+		"Message": ""
+	},
+	{
+		"Id": "252",
+		"Word": "Perfect",
+		"Message": ""
+	},
+	{
+		"Id": "253",
+		"Word": "Phenomenon",
+		"Message": ""
+	},
+	{
+		"Id": "254",
+		"Word": "Pleasure",
+		"Message": ""
+	},
+	{
+		"Id": "255",
+		"Word": "Plentiful",
+		"Message": ""
+	},
+	{
+		"Id": "256",
+		"Word": "Plenty",
+		"Message": ""
+	},
+	{
+		"Id": "257",
+		"Word": "Plethora",
+		"Message": ""
+	},
+	{
+		"Id": "258",
+		"Word": "Poise",
+		"Message": ""
+	},
+	{
+		"Id": "259",
+		"Word": "Polish",
+		"Message": ""
+	},
+	{
+		"Id": "260",
+		"Word": "Popular",
+		"Message": ""
+	},
+	{
+		"Id": "261",
+		"Word": "Positive",
+		"Message": "Positive' is what we should all desire to be. EagerLife is about flooding the mind with positive thoughts and vibes to help you become a consistently positive person!"
+	},
+	{
+		"Id": "262",
+		"Word": "Powerful",
+		"Message": ""
+	},
+	{
+		"Id": "263",
+		"Word": "Prepared",
+		"Message": ""
+	},
+	{
+		"Id": "264",
+		"Word": "Pretty",
+		"Message": ""
+	},
+	{
+		"Id": "265",
+		"Word": "Principle",
+		"Message": ""
+	},
+	{
+		"Id": "266",
+		"Word": "Productive",
+		"Message": ""
+	},
+	{
+		"Id": "267",
+		"Word": "Project",
+		"Message": ""
+	},
+	{
+		"Id": "268",
+		"Word": "Prominent",
+		"Message": ""
+	},
+	{
+		"Id": "269",
+		"Word": "Prosperous",
+		"Message": ""
+	},
+	{
+		"Id": "270",
+		"Word": "Protect",
+		"Message": ""
+	},
+	{
+		"Id": "271",
+		"Word": "Proud",
+		"Message": ""
+	},
+	{
+		"Id": "272",
+		"Word": "Purpose",
+		"Message": ""
+	},
+	{
+		"Id": "273",
+		"Word": "Quest",
+		"Message": ""
+	},
+	{
+		"Id": "274",
+		"Word": "Quick",
+		"Message": ""
+	},
+	{
+		"Id": "275",
+		"Word": "Quiet",
+		"Message": ""
+	},
+	{
+		"Id": "276",
+		"Word": "Ready",
+		"Message": ""
+	},
+	{
+		"Id": "277",
+		"Word": "Recognize",
+		"Message": "It's always important to recognize the good things in our lives: things that make you feel happy, healthy, peaceful, at ease. Of course, it's also important to recognize the people who've helped you all along your journey in life. Never hesitate to express gratitude by giving recognition to such people!"
+	},
+	{
+		"Id": "278",
+		"Word": "Refinement",
+		"Message": ""
+	},
+	{
+		"Id": "279",
+		"Word": "Refresh",
+		"Message": ""
+	},
+	{
+		"Id": "280",
+		"Word": "Rejoice",
+		"Message": ""
+	},
+	{
+		"Id": "281",
+		"Word": "Rejuvenate",
+		"Message": ""
+	},
+	{
+		"Id": "282",
+		"Word": "Relax",
+		"Message": ""
+	},
+	{
+		"Id": "283",
+		"Word": "Reliance",
+		"Message": ""
+	},
+	{
+		"Id": "284",
+		"Word": "Rely",
+		"Message": ""
+	},
+	{
+		"Id": "285",
+		"Word": "Remarkable",
+		"Message": ""
+	},
+	{
+		"Id": "286",
+		"Word": "Renew",
+		"Message": ""
+	},
+	{
+		"Id": "287",
+		"Word": "Renowned",
+		"Message": ""
+	},
+	{
+		"Id": "288",
+		"Word": "Replenish",
+		"Message": ""
+	},
+	{
+		"Id": "289",
+		"Word": "Resolution",
+		"Message": ""
+	},
+	{
+		"Id": "290",
+		"Word": "Resonate",
+		"Message": ""
+	},
+	{
+		"Id": "291",
+		"Word": "Resound",
+		"Message": ""
+	},
+	{
+		"Id": "292",
+		"Word": "Resource",
+		"Message": ""
+	},
+	{
+		"Id": "293",
+		"Word": "Respect",
+		"Message": ""
+	},
+	{
+		"Id": "294",
+		"Word": "Restore",
+		"Message": ""
+	},
+	{
+		"Id": "295",
+		"Word": "Revere",
+		"Message": ""
+	},
+	{
+		"Id": "296",
+		"Word": "Revolutionize",
+		"Message": ""
+	},
+	{
+		"Id": "297",
+		"Word": "Rewarding",
+		"Message": ""
+	},
+	{
+		"Id": "298",
+		"Word": "Riches",
+		"Message": ""
+	},
+	{
+		"Id": "299",
+		"Word": "Robust",
+		"Message": ""
+	},
+	{
+		"Id": "300",
+		"Word": "Rousing",
+		"Message": ""
+	},
+	{
+		"Id": "301",
+		"Word": "Safe",
+		"Message": ""
+	},
+	{
+		"Id": "302",
+		"Word": "Secure",
+		"Message": ""
+	},
+	{
+		"Id": "303",
+		"Word": "See",
+		"Message": ""
+	},
+	{
+		"Id": "304",
+		"Word": "Sensation",
+		"Message": ""
+	},
+	{
+		"Id": "305",
+		"Word": "Serenity",
+		"Message": ""
+	},
+	{
+		"Id": "306",
+		"Word": "Shift",
+		"Message": "A shift in mindset may be just what you need to get yourself to the next level in your life. Sometimes it's just a subtle shift that can make an enormous difference. Slowly start shifting your thoughts toward the positive and away from the negative, and your entire world will begin to change for the better."
+	},
+	{
+		"Id": "307",
+		"Word": "Shine",
+		"Message": ""
+	},
+	{
+		"Id": "308",
+		"Word": "Show",
+		"Message": ""
+	},
+	{
+		"Id": "309",
+		"Word": "Silence",
+		"Message": ""
+	},
+	{
+		"Id": "310",
+		"Word": "Simple",
+		"Message": ""
+	},
+	{
+		"Id": "311",
+		"Word": "Sincerity",
+		"Message": ""
+	},
+	{
+		"Id": "312",
+		"Word": "Smart",
+		"Message": ""
+	},
+	{
+		"Id": "313",
+		"Word": "Smile",
+		"Message": ""
+	},
+	{
+		"Id": "314",
+		"Word": "Smooth",
+		"Message": ""
+	},
+	{
+		"Id": "315",
+		"Word": "Solution",
+		"Message": ""
+	},
+	{
+		"Id": "316",
+		"Word": "Soul",
+		"Message": ""
+	},
+	{
+		"Id": "317",
+		"Word": "Sparkling",
+		"Message": ""
+	},
+	{
+		"Id": "318",
+		"Word": "Spirit",
+		"Message": ""
+	},
+	{
+		"Id": "319",
+		"Word": "Spirited",
+		"Message": ""
+	},
+	{
+		"Id": "320",
+		"Word": "Spiritual",
+		"Message": ""
+	},
+	{
+		"Id": "321",
+		"Word": "Splendid",
+		"Message": ""
+	},
+	{
+		"Id": "322",
+		"Word": "Spontaneous",
+		"Message": ""
+	},
+	{
+		"Id": "323",
+		"Word": "Star",
+		"Message": ""
+	},
+	{
+		"Id": "324",
+		"Word": "Still",
+		"Message": ""
+	},
+	{
+		"Id": "325",
+		"Word": "Stir",
+		"Message": ""
+	},
+	{
+		"Id": "326",
+		"Word": "Strong",
+		"Message": ""
+	},
+	{
+		"Id": "327",
+		"Word": "Style",
+		"Message": ""
+	},
+	{
+		"Id": "328",
+		"Word": "Success",
+		"Message": ""
+	},
+	{
+		"Id": "329",
+		"Word": "Sunny",
+		"Message": ""
+	},
+	{
+		"Id": "330",
+		"Word": "Support",
+		"Message": ""
+	},
+	{
+		"Id": "331",
+		"Word": "Sure",
+		"Message": ""
+	},
+	{
+		"Id": "332",
+		"Word": "Surprise",
+		"Message": ""
+	},
+	{
+		"Id": "333",
+		"Word": "Sustain",
+		"Message": ""
+	},
+	{
+		"Id": "334",
+		"Word": "Synchronize",
+		"Message": ""
+	},
+	{
+		"Id": "335",
+		"Word": "Team",
+		"Message": ""
+	},
+	{
+		"Id": "336",
+		"Word": "Thankful",
+		"Message": ""
+	},
+	{
+		"Id": "337",
+		"Word": "Therapeutic",
+		"Message": ""
+	},
+	{
+		"Id": "338",
+		"Word": "Thorough",
+		"Message": ""
+	},
+	{
+		"Id": "339",
+		"Word": "Thrill",
+		"Message": ""
+	},
+	{
+		"Id": "340",
+		"Word": "Thrive",
+		"Message": ""
+	},
+	{
+		"Id": "341",
+		"Word": "Today",
+		"Message": ""
+	},
+	{
+		"Id": "342",
+		"Word": "Together",
+		"Message": ""
+	},
+	{
+		"Id": "343",
+		"Word": "Tranquil",
+		"Message": ""
+	},
+	{
+		"Id": "344",
+		"Word": "Transform",
+		"Message": ""
+	},
+	{
+		"Id": "345",
+		"Word": "Triumph",
+		"Message": ""
+	},
+	{
+		"Id": "346",
+		"Word": "Trust",
+		"Message": "Trust in your ability to succeed! Many of us initially lack trust in ourselves when we start something new or attempt to do something outside our comfort zone. Practice, practice, practice, and your trust in yourself will grow by leaps and bounds."
+	},
+	{
+		"Id": "347",
+		"Word": "Truth",
+		"Message": ""
+	},
+	{
+		"Id": "348",
+		"Word": "Unity",
+		"Message": ""
+	},
+	{
+		"Id": "349",
+		"Word": "Unusual",
+		"Message": ""
+	},
+	{
+		"Id": "350",
+		"Word": "Unwavering",
+		"Message": "Do you approach your goals with unwavering desire? You must remain committed, determined, and consistent in your actions to achieve the desired results."
+	},
+	{
+		"Id": "351",
+		"Word": "Upbeat",
+		"Message": ""
+	},
+	{
+		"Id": "352",
+		"Word": "Value",
+		"Message": "Always strive to provide value to others in some way. At the same time, value the things that you do! If you're doing things that do not provide value to others, nor do you value what you're doing, it's time to do something else instead."
+	},
+	{
+		"Id": "353",
+		"Word": "Vary",
+		"Message": ""
+	},
+	{
+		"Id": "354",
+		"Word": "Venerate",
+		"Message": ""
+	},
+	{
+		"Id": "355",
+		"Word": "Venture",
+		"Message": ""
+	},
+	{
+		"Id": "356",
+		"Word": "Very",
+		"Message": ""
+	},
+	{
+		"Id": "357",
+		"Word": "Vibrant",
+		"Message": ""
+	},
+	{
+		"Id": "358",
+		"Word": "Victory",
+		"Message": ""
+	},
+	{
+		"Id": "359",
+		"Word": "Vigorous",
+		"Message": ""
+	},
+	{
+		"Id": "360",
+		"Word": "Virtue",
+		"Message": "With all you do, practice virtue. Always strive for what is right, regardless of whether that choice is the more difficult one."
+	},
+	{
+		"Id": "361",
+		"Word": "Vision",
+		"Message": ""
+	},
+	{
+		"Id": "362",
+		"Word": "Visualize",
+		"Message": "If you can visualize yourself living the life you want, then you can absolutely achieve that life for yourself. Set time aside each day, even just for a few minutes, to visualize what you truly want. Before you know it, your imaginations will become reality."
+	},
+	{
+		"Id": "363",
+		"Word": "Vital",
+		"Message": ""
+	},
+	{
+		"Id": "364",
+		"Word": "Vivacious",
+		"Message": ""
+	},
+	{
+		"Id": "365",
+		"Word": "Voyage",
+		"Message": ""
+	},
+	{
+		"Id": "366",
+		"Word": "Wealth",
+		"Message": "All of us enjoy some form of wealth. If you're able to read this post right now on whatever electronic device you happen to be using, you have more wealth than a great number of people in the world. Appreciate and be grateful for your current wealth, and more wealth will come into your life."
+	},
+	{
+		"Id": "367",
+		"Word": "Welcome",
+		"Message": ""
+	},
+	{
+		"Id": "368",
+		"Word": "Well",
+		"Message": ""
+	},
+	{
+		"Id": "369",
+		"Word": "Whole",
+		"Message": ""
+	},
+	{
+		"Id": "370",
+		"Word": "Wholesome",
+		"Message": ""
+	},
+	{
+		"Id": "371",
+		"Word": "Why",
+		"Message": "For what reason or purpose do you do the things you do? Do you find yourself toiling aimlessly? Or are you focused and driven because you know exacty what your WHY is? What is your WHY?"
+	},
+	{
+		"Id": "372",
+		"Word": "Willing",
+		"Message": "You must be willing to make a change, or several changes, in your life if you want to improve your present situation! It's simply not enough to merely 'wish' for a change; your willingness must be transformed into ACTION!"
+	},
+	{
+		"Id": "373",
+		"Word": "Wonder",
+		"Message": "We live in a world of wonder. I used to think everything happened randomly and/or coincidentally. As I've grown older, though, I have come to believe that everything happens for a reason. Are you a believer in a world of randomness or a world of reason?"
+	},
+	{
+		"Id": "374",
+		"Word": "Wonderful",
+		"Message": ""
+	},
+	{
+		"Id": "375",
+		"Word": "Wondrous",
+		"Message": ""
+	},
+	{
+		"Id": "376",
+		"Word": "Xanadu",
+		"Message": ""
+	},
+	{
+		"Id": "377",
+		"Word": "Yes",
+		"Message": ""
+	},
+	{
+		"Id": "378",
+		"Word": "Yippee",
+		"Message": ""
+	},
+	{
+		"Id": "379",
+		"Word": "Young",
+		"Message": ""
+	},
+	{
+		"Id": "380",
+		"Word": "Youth",
+		"Message": ""
+	},
+	{
+		"Id": "381",
+		"Word": "Youthful",
+		"Message": ""
+	},
+	{
+		"Id": "382",
+		"Word": "Zeal",
+		"Message": "Approach working towards your goals with zeal! If you find that you're not particularly excited or enthusiastic about what you're doing, perhaps you should consider moving onto something else instead. Do the things you enjoy doing!"
+	},
+	{
+		"Id": "383",
+		"Word": "Zest",
+		"Message": ""
+	},
+	{
+		"Id": "384",
+		"Word": "Zing",
+		"Message": ""
+	},
+	{
+		"Id": "385",
+		"Word": "Zip",
+		"Message": ""
+	}
+]
